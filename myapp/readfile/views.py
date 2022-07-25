@@ -1,14 +1,24 @@
 import re
+import glob
+import os
 import random
 from django.shortcuts import render
 from django.http import HttpResponse
 
 
-def getdata():
-    with open("notes.txt", "r") as f:
-        names_list = [l for l in (line.strip() for line in f) if l]
-        return(random.choice(names_list))
+def getfile():
+  os.chdir("./mynotes")
+  return(random.choice((glob.glob("*.txt"))))
 
+
+def printfile(filename):
+  print(filename)
+  with open(filename, "r") as f:
+    try:
+      file_content = [l for l in (line.strip() for line in f) if l]
+      print(random.choice(file_content))
+    except:
+      print("Empty file")
 # posts=[
 #     {
 #     'author': 'a',
