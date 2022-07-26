@@ -7,18 +7,19 @@ from django.http import HttpResponse
 
 
 def getfile():
-  os.chdir("./mynotes")
-  return(random.choice((glob.glob("*.txt"))))
-
+  
+  final_location=os.path.join(os.getcwd(),"mynotes")
+  return(random.choice((glob.glob(os.path.join(final_location,"*.txt")))))
 
 def printfile(filename):
   print(filename)
   with open(filename, "r") as f:
     try:
       file_content = [l for l in (line.strip() for line in f) if l]
-      print(random.choice(file_content))
+      return(random.choice(file_content))
     except:
-      print("Empty file")
+      return("Empty file")
+
 # posts=[
 #     {
 #     'author': 'a',
@@ -34,7 +35,8 @@ def printfile(filename):
 def index(request):
     
     args={}
-    gettext=getdata()
+    file=getfile()
+    gettext=printfile(file)
     args['mytext']=gettext
     # context={
     #     'posts':posts
