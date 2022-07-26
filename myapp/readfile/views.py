@@ -12,7 +12,7 @@ def getfile():
   return(random.choice((glob.glob(os.path.join(final_location,"*.txt")))))
 
 def printfile(filename):
-  print(filename)
+  #print(filename)
   with open(filename, "r") as f:
     try:
       file_content = [l for l in (line.strip() for line in f) if l]
