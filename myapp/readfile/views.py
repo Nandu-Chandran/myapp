@@ -35,9 +35,12 @@ def printfile(filename):
 def index(request):
     
     args={}
-    file=getfile()
-    gettext=printfile(file)
+    filepath=getfile()
+    gettext=printfile(filepath)
     args['mytext']=gettext
+
+    lis = list(filepath.split("/"))
+    args['author']=lis[len(lis)-1]
     # context={
     #     'posts':posts
     # }
