@@ -1,3 +1,5 @@
+import os
+
 """
 Django settings for myapp project.
 
@@ -31,6 +33,8 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'dashboard.apps.DashboardConfig',
+    'users.apps.UsersConfig',
     'readfile.apps.ReadfileConfig',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -55,7 +59,7 @@ ROOT_URLCONF = 'myapp.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR,'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
