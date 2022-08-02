@@ -1,4 +1,22 @@
 {% extends "dashboard/base.html" %}
 {% block content %}
     <h1> Welcome to the dashboard</h1> 
+    <!-- {% for card in cards %}
+        <h1>{{ card.name }}</h1> 
+        <h1>{{ card.context }}</h1>
+        <h1>{{ card.tag }}</h1>
+    {% endfor %} -->
+    {% for card in cards %}
+    <article class="media content-section">
+        <div class="media-body">
+          <div class="article-metadata">
+            <a class="mr-2" href="#">{{ card.author }}</a>
+            <small class="text-muted">{{ card.name }}</small>
+          </div>
+          <h2><a class="article-title" href="#">{{ card.context }}</a></h2>
+          <p class="article-content">{{ card.tag }}</p>
+        </div>
+    </article>
+    {% endfor %}
+
 {% endblock content %}

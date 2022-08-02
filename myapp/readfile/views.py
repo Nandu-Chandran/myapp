@@ -41,9 +41,7 @@ def index(request):
 
     lis = list(filepath.split("/"))
     args['author']=lis[len(lis)-1]
-    # context={
-    #     'posts':posts
-    # }
+    
     return render(request,'readfile/home.html',args)
 
 def about(request):
