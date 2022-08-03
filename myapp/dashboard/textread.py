@@ -38,17 +38,16 @@ class Notewiki:
         return(self.data)
 
 
-class Quotes:
+class Quote:
     
+    path="myquotes"
 
-    def __init__(self,name,path,data,tags):
-        self.path = path
+    def __init__(self,name,data,tags):
         self.name = name
         self.data = data
         self.tag = tags
 
     def givedata(self):
-        self.path="mynotes"
         self.name=getfile_module.getfile(self.path)
         self.data=printfile_module.printfile(self.name)
         return(self.data)
@@ -66,7 +65,13 @@ def create_cards(card_names):
 cardDict=create_cards(card_names)
 print(cardDict)
 
-mynotes="mynotes"
 NotewikiCard= Notewiki("null","null","null")
 NotewikiCard.givedata()
 print(">",NotewikiCard.data)
+
+QuoteCard= Quote("null","null","null")
+QuoteCard.givedata()
+print(">",QuoteCard.data)
+
+
+
