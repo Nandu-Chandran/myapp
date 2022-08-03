@@ -12,7 +12,9 @@ class Card:
 
     def printCard(self):
         return('{} {} {}'.format(self.name,self.context,self.tag))
-       
+
+    # def notewikiCard():
+
 
 def create_cards(card_names):
     cardList=[]
