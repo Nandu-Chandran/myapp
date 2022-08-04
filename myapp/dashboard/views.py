@@ -13,9 +13,10 @@ card_names=['notewiki','quotes']
 
 class Card:
 
-    def __init__(self,name,content):
+    def __init__(self,name,content,redirection_path):
         self.name = name
         self.content = content
+        self.redirection_path= redirection_path
         # self.tag= tag
 
     def printCard(self):
@@ -26,6 +27,7 @@ class Card:
 class Notewiki:
     
     path="mynotes"
+    redirection_path="readfile"
 
     def __init__(self,name,data,tags):
         # self.path = Notewiki.path
@@ -37,11 +39,12 @@ class Notewiki:
         # self.path="mynotes"
         self.name=getfile_module.getfile(self.path)
         self.data=printfile_module.printfile(self.name)
-        return(self.data)
+        return(self.data,self.redirection_path)
 
 class Quote:
     
     path="myquotes"
+    redirection_path="quote"
 
     def __init__(self,name,data,tags):
         self.name = name
@@ -51,7 +54,7 @@ class Quote:
     def givedata(self):
         self.name=getfile_module.getfile(self.path)
         self.data=printfile_module.printfile(self.name)
-        return(self.data,self.name)
+        return(self.data,self.name,self.redirection_path)
 
 
 NotewikiCard= Notewiki("null","null","null")
@@ -67,7 +70,7 @@ card_list=[NotewikiCard,QuoteCard]
 def create_cards(card_names):
     fullcard=[]
     for card in range(len(card_list)):
-        cardobj= Card(card_list[card].name,card_list[card].data)
+        cardobj= Card(card_list[card].name,card_list[card].data, card_list[card].redirection_path)
         fullcard.append(cardobj.__dict__)
     return fullcard
 
@@ -78,7 +81,7 @@ def create_cards(card_names):
 
 def dashboard(request):
     cards=create_cards(card_names)
-    print("\n Passed Cards for render",cards)
+    print("\n Passed Cards for render: ",cards)
     context={
         'cards':cards
     }
