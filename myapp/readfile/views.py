@@ -20,18 +20,6 @@ def printfile(filename):
     except:
       return("Empty file")
 
-# posts=[
-#     {
-#     'author': 'a',
-#     'title': 'first post 1',
-#     'content':'content of first'},
-#     {
-#     'author': 'b',
-#     'title': 'first post 2',
-#     'content':'content of second'}
-#     ]
-
-
 def index(request):
     
     args={}
