@@ -26,8 +26,8 @@ class Card:
 
 class Notewiki:
     
-    path="mynotes"
-    redirection_path="mynotes"
+    path="notes"
+    redirection_path="notes"
 
     def __init__(self,name,data,tags):
         # self.path = Notewiki.path
@@ -43,8 +43,8 @@ class Notewiki:
 
 class Quote:
     
-    path="myquotes"
-    redirection_path="quote"
+    path="quotes"
+    redirection_path="quotes"
 
     def __init__(self,name,data,tags):
         self.name = name
