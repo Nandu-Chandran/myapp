@@ -8,9 +8,10 @@ try:
 except Exception as e:
     print("local imports unsuccessful" +str(e))
 
-
+#Declare new cards in list
 card_names=['notewiki','quotes']
 
+#Pattern of cards
 class Card:
 
     def __init__(self,name,content,redirection_path):
@@ -23,7 +24,7 @@ class Card:
         return('{} {} {}'.format(self.name,self.content,self.tag))
     
     # def notewikiCard(self):
-
+#Class of different cards
 class Notewiki:
     
     path="notes"
