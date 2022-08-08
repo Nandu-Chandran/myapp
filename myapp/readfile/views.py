@@ -5,10 +5,18 @@ import random
 from django.shortcuts import render
 from django.http import HttpResponse
 
+try:
+    from dashboard import getfile as getfile_module
+    from dashboard import printfile as printfile_module
 
-def getfile():
+
+except Exception as e:
+    print("local imports unsuccessful" +str(e))
+
+
+def getfile(path):
   
-  final_location=os.path.join(os.getcwd(),"mynotes")
+  final_location=os.path.join(os.getcwd(),path)
   return(random.choice((glob.glob(os.path.join(final_location,"*.txt")))))
 
 def printfile(filename):
@@ -21,7 +29,7 @@ def printfile(filename):
       return("Empty file")
 
 def index(request):
-    
+    # print(para)
     args={}
     filepath=getfile()
     gettext=printfile(filepath)
@@ -31,6 +39,18 @@ def index(request):
     args['author']=lis[len(lis)-1]
     
     return render(request,'readfile/home.html',args)
+
+def viewfile(request,path):
+    args={}
+    filepath=getfile(path)
+    gettext=printfile(filepath)
+    print(gettext)
+    args['mytext']=gettext
+
+    lis = list(filepath.split("/"))
+    args['author']=lis[len(lis)-1]
+    
+    return render(request, 'readfile/about.html', {'msg' : path})
 
 def about(request):
     return render(request, 'readfile/about.html') 
