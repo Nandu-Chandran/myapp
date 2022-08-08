@@ -27,7 +27,7 @@ class Card:
 class Notewiki:
     
     path="mynotes"
-    redirection_path="readfile"
+    redirection_path="mynotes"
 
     def __init__(self,name,data,tags):
         # self.path = Notewiki.path
