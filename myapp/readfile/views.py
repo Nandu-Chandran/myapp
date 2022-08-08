@@ -40,9 +40,11 @@ def index(request):
     
     return render(request,'readfile/home.html',args)
 
-def viewfile(request,path):
+def viewfile(request,msg):
+    
+    print(">>>>>>>>>>>>>>>>",msg)
     args={}
-    filepath=getfile(path)
+    filepath=getfile(msg)
     gettext=printfile(filepath)
     print(gettext)
     args['mytext']=gettext
@@ -50,7 +52,7 @@ def viewfile(request,path):
     lis = list(filepath.split("/"))
     args['author']=lis[len(lis)-1]
     
-    return render(request, 'readfile/about.html', {'msg' : path})
+    return render(request, 'readfile/home.html', args)
 
 def about(request):
     return render(request, 'readfile/about.html') 
