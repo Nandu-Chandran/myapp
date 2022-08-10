@@ -39,7 +39,7 @@ class Notewiki:
     def givedata(self):
         # self.path="mynotes"
         self.name=getfile_module.getfile(self.path)
-        self.data=printfile_module.printfile(self.name)
+        self.data=printfile_module.printfile(self.name,False)
         return(self.data,self.redirection_path)
 
 class Quote:
@@ -54,9 +54,23 @@ class Quote:
 
     def givedata(self):
         self.name=getfile_module.getfile(self.path)
-        self.data=printfile_module.printfile(self.name)
+        self.data=printfile_module.printfile(self.name,False)
         return(self.data,self.name,self.redirection_path)
 
+class SongDB:
+    
+    path="songdb"
+    redirection_path="songdb0"
+
+    def __init__(self,name,data,tags):
+        self.name = name
+        self.data = data
+        self.tag = tags
+
+    def givedata(self):
+        self.name=getfile_module.getfile(self.path)
+        self.data=printfile_module.printfile(self.name,False)
+        return(self.data,self.name,self.redirection_path)
 
 NotewikiCard= Notewiki("null","null","null")
 NotewikiCard.givedata()
@@ -64,8 +78,10 @@ NotewikiCard.givedata()
 QuoteCard= Quote("null","null","null")
 QuoteCard.givedata()
 
+SongdbCard=SongDB("null","null","null")
+SongdbCard.givedata()
 
-card_list=[NotewikiCard,QuoteCard,Watchlater]
+card_list=[NotewikiCard,QuoteCard,SongdbCard]
 
 
 def create_cards(card_names):
@@ -77,8 +93,6 @@ def create_cards(card_names):
 
 # cardDict=create_cards(card_names)
 # print(cardDict)
-
-
 
 def dashboard(request):
     cards=create_cards(card_names)

@@ -28,10 +28,19 @@ def index(request):
 
 def viewfile(request,msg):
     
-    print(">>>>>>>>>>>>>>>>",msg)
+    print("\nPassed as request\n",msg)
     args={}
-    filepath=getfile_module.getfile(msg)
-    gettext=printfile_module.printfile(filepath)
+    
+    if msg[-1]=='0':
+      new_path=str(msg.rstrip(msg[-1]))
+      print("\nStripped path\n",new_path)
+      filepath=getfile_module.getfile(new_path)
+      print("\nfilepath passed to getfile:\n",filepath)
+      gettext=printfile_module.printfile(filepath,True)
+      print("\ntext received:\n",gettext)
+    else:
+      filepath=getfile_module.getfile(msg)
+      gettext=printfile_module.printfile(filepath,False)
     print(gettext)
     args['mytext']=gettext
 
