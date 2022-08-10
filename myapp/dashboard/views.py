@@ -9,7 +9,7 @@ except Exception as e:
     print("local imports unsuccessful" +str(e))
 
 #Declare new cards in list
-card_names=['notewiki','quotes','watch_later']
+card_names=['notewiki','quotes','archieve']
 
 #Pattern of cards
 class Card:
@@ -57,10 +57,10 @@ class Quote:
         self.data=printfile_module.printfile(self.name,False)
         return(self.data,self.name,self.redirection_path)
 
-class SongDB:
+class Archieve:
     
-    path="songdb"
-    redirection_path="songdb0"
+    path="archieve"
+    redirection_path="archieve$"
 
     def __init__(self,name,data,tags):
         self.name = name
@@ -78,10 +78,10 @@ NotewikiCard.givedata()
 QuoteCard= Quote("null","null","null")
 QuoteCard.givedata()
 
-SongdbCard=SongDB("null","null","null")
-SongdbCard.givedata()
+ArchieveCard=Archieve("null","null","null")
+ArchieveCard.givedata()
 
-card_list=[NotewikiCard,QuoteCard,SongdbCard]
+card_list=[NotewikiCard,QuoteCard,ArchieveCard]
 
 
 def create_cards(card_names):

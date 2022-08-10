@@ -31,7 +31,8 @@ def viewfile(request,msg):
     print("\nPassed as request\n",msg)
     args={}
     
-    if msg[-1]=='0':
+    if msg[-1]=="$":
+      print("*****************One line function called***********")
       new_path=str(msg.rstrip(msg[-1]))
       print("\nStripped path\n",new_path)
       filepath=getfile_module.getfile(new_path)
@@ -39,6 +40,7 @@ def viewfile(request,msg):
       gettext=printfile_module.printfile(filepath,True)
       print("\ntext received:\n",gettext)
     else:
+      print("*****************Multiline function called***********")
       filepath=getfile_module.getfile(msg)
       gettext=printfile_module.printfile(filepath,False)
     print(gettext)
