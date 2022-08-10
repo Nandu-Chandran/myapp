@@ -9,7 +9,7 @@ except Exception as e:
     print("local imports unsuccessful" +str(e))
 
 #Declare new cards in list
-card_names=['notewiki','quotes']
+card_names=['notewiki','quotes','watch_later']
 
 #Pattern of cards
 class Card:
@@ -65,7 +65,7 @@ QuoteCard= Quote("null","null","null")
 QuoteCard.givedata()
 
 
-card_list=[NotewikiCard,QuoteCard]
+card_list=[NotewikiCard,QuoteCard,Watchlater]
 
 
 def create_cards(card_names):

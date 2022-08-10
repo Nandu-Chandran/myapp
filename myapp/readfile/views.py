@@ -14,25 +14,11 @@ except Exception as e:
     print("local imports unsuccessful" +str(e))
 
 
-def getfile(path):
-  
-  final_location=os.path.join(os.getcwd(),path)
-  return(random.choice((glob.glob(os.path.join(final_location,"*.txt")))))
-
-def printfile(filename):
-  #print(filename)
-  with open(filename, "r") as f:
-    try:
-      file_content = [l for l in (line.strip() for line in f) if l]
-      return(random.choice(file_content))
-    except:
-      return("Empty file")
-
 def index(request):
     # print(para)
     args={}
-    filepath=getfile()
-    gettext=printfile(filepath)
+    filepath=getfile_module()
+    gettext=printfile_module(filepath)
     args['mytext']=gettext
 
     lis = list(filepath.split("/"))
@@ -44,8 +30,8 @@ def viewfile(request,msg):
     
     print(">>>>>>>>>>>>>>>>",msg)
     args={}
-    filepath=getfile(msg)
-    gettext=printfile(filepath)
+    filepath=getfile_module.getfile(msg)
+    gettext=printfile_module.printfile(filepath)
     print(gettext)
     args['mytext']=gettext
 
