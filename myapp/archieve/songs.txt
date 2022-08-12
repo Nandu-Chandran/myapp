@@ -1,0 +1,1955 @@
+.
+├── 01. Aaraattu Kadavinkal.wav
+├── 01. Aaroral (D).wav
+├── 01. Aarum Kaanathe.flac
+├── 01. Adiyogi (The Source of Yoga).flac
+├── 01. Alare.flac
+├── 01. Athirezhamukile.flac
+├── 01 Azhakooril.wav
+├── 01. Baale.flac
+├── 01. Baale Replugged.flac
+├── 01_Beethoven_Sonata_Op_13_No_8_in_C_Minor_Pathetique_1st_movement.flac
+├── 01 - Be Notorious (Title Track).flac
+├── 01. Chellakkaatte.wav
+├── 01. Chirutha.flac
+├── 01 Devathaiyai Kanden.wav
+├── 01. Dooth.flac
+├── 01 Enikkoru Pennundu (Thilakkam).wav
+├── 01. Guruvayurappane Appan.flac
+├── 01. Heavenly.flac
+├── 01. In Your Eyes.flac
+├── 01. Iravum Pakalum.flac
+├── 01. Junile Nilamazhayil.flac
+├── 01. Kalampaattu.flac
+├── 01 - Kaliyon Ka Chaman.flac
+├── 01. Kandu Kandu Kandilla.wav
+├── 01. Komaram.flac
+├── 01 - Kurukku Chiruththavale.wav
+├── 01. Main Kya Karoon(1).wav
+├── 01. Main Kya Karoon.wav
+├── 01. Mala Maathinnu.flac
+├── 01 - Malang.flac
+├── 01. Manikuyile (Duet).flac
+├── 01. Manimuttathaavani.wav
+├── 01. Manu Malayalam.flac
+├── 01. Manyamathe.flac
+├── 01. Marakkalle Keralam.flac
+├── 01. Mathru Vandanam.flac
+├── 01 Minunundae Mullapolae.flac
+├── 01-Mujhse Dosti Karoge-Andekhi Anjaani.wav
+├── 01. Muthumazha.wav
+├── 01. Nadhiye Nadhiye.flac
+├── 01 - Neeli Penne.flac
+├── 01. Neeye.flac
+├── 01. Not Afraid.flac
+├── 01. Oh Kinnakaalam.flac
+├── 01 Onnam Raagam Padee.wav
+├── 01 Oru Ponnu Onnu.wav
+├── 01. Paathi Paathi.flac
+├── 01. Pottu Thotta Pournami.flac
+├── 01. Pranayamillaathe Aaya Naal.flac
+├── 01. Raavin Nilaakkaayal (Male).wav
+├── 01. Raavu Mayave.flac
+├── 01. Sagar Alias Jacky.aif
+├── 01. Sandarshanam.flac
+├── 01. Santhamee Rathri.flac
+├── 01. Shalabham Pole.flac
+├── 01 Shreya Ghoshal _ Swaroop Khan - Ghoomar.wav
+├── 01. Sivaya Nama (Nanmayerunnoru).flac
+├── 01. Sree Narayana Guru.flac
+├── 01. Teaser Theme.flac
+├── 01. Thanjavoor Jilla Kaari.flac
+├── 01. Theyyam.flac
+├── 01. Thumbi Vaa.flac
+├── 01. Toofan.flac
+├── 01 Track01.wav
+├── 01. Track 1.wav
+├── 01. Tu Hai.m4a
+├── 01 - Unakkul Naane.wav
+├── 01 - Uyirin Uyirae.wav
+├── 01. Vaa Vasuki.flac
+├── 01 - Vannathi.flac
+├── 01 - Vinmeen (From _Thegidi_).flac
+├── 01 - Vizhiyil Un Vizhiyil.flac
+├── 01. Yalla.flac
+├── 01. Yesudas-Oarmmaykkyay (I).flac
+├── 020222
+│   ├── 01. Manimuttathaavani.wav
+│   ├── 01 Onnam Raagam Padee.wav
+│   ├── 03 NAILNADIYEA.wav
+│   ├── 03 Oru Naal.wav
+│   ├── 04 - Oru Kal Oru Kannadi.wav
+│   ├── 05 THUMBHI KALYANATHINU.wav
+│   ├── 06 CHINGAMASSAM VANNU CHERNNAL.wav
+│   ├── 08. Kilippenne Nilaavin (Dhosth).wav
+│   ├── 08. Markazhiye Mallikaye.wav
+│   ├── 08 Pavizhampol.wav
+│   ├── 09 Padam Vanamali (Kakkakuyil).wav
+│   ├── 11 Alare Govinda (Kakkakuyil).wav
+│   ├── 14 Vellinilaathumbikalo.wav
+│   ├── 15 Thakilu Pukilu (Ravanaprabhu).wav
+│   ├── 15. Thalappoli Thakiladi (Avittam Thirunaal Aarogya Sriman).wav
+│   ├── Aakashamake - Namukku Parkkan Munthirithoppukal (1986).wav
+│   ├── Adiye-MassTamilan.fm.mp3
+│   ├── Akkam-Pakkam.mp3
+│   ├── conv
+│   │   ├── 01 - Malang.wav
+│   │   ├── 01. Vaa Vasuki.wav
+│   │   ├── 01 - Vinmeen (From _Thegidi_).wav
+│   │   ├── 02. Mizhikalkkinnu.wav
+│   │   ├── 04. Poovukal Peyyum.wav
+│   │   ├── 04. Thaane Pookum.wav
+│   │   ├── 06 Jamming.wav
+│   │   ├── 09 Three Little Birds.wav
+│   │   ├── Enadhuyire - Sadhana Sargam.wav
+│   │   ├── Hariharan,_Sarath_Kumar,_Various_Artists_Rosappu_Chinna_Rosappu.wav
+│   │   ├── Mohan Sithara, K.J. Yesudas, Sujatha - Kuyile Nin.wav
+│   │   ├── Naan Pogiren.wav
+│   │   ├── Sreenivas, Sujatha Mohan - Velippenninu Thaalikku.wav
+│   │   ├── Sujatha Mohan — Ariyathe.wav
+│   │   └── Yuvanshankar Raja, Roop Kumar Rathod - Oru Devathai.wav
+│   ├── Dhavanipotta-Deepavali.mp3
+│   ├── Ding-Dong-MassTamilan.com.mp3
+│   ├── Ennulliletho _1080p_ Meerayude Dukhavum Muthuvinte Swapnavum _ Prithviraj _Renuka Menon_ Ambili Devi.mp3
+│   ├── Injathea.mp3
+│   ├── Ivan-Yaaro.mp3
+│   ├── Kaadhalin-Deepam-Ondru.mp3
+│   ├── Malaraa-Malaraa-MassTamilan.com.mp3
+│   ├── Mazhavillin kottarathil.wav
+│   ├── M G Sreekumar - Kantu Njan Kannane ACD Rip WAV
+│   │   ├── 01. Kandu Njaan Kannane.wav
+│   │   ├── 02. Gomathi Pai Chollunnu.wav
+│   │   ├── 03. Krishna Ninte Peril.wav
+│   │   ├── 04. Guruvayoorappane.wav
+│   │   ├── 05. Athaazhathodu.wav
+│   │   ├── 06. Raadha Maadhava.wav
+│   │   ├── 07. Dwaaparakombilu.wav
+│   │   ├── 08. Kannaa Nee Chaanjurangu.wav
+│   │   ├── 09. Aaromal Kannane.wav
+│   │   ├── 10. Mazhamegha Peeli.wav
+│   │   └── 11. Kannaa Ninne Thedi.wav
+│   ├── Minnazhgal-Koothadam.mp3
+│   ├── Nadhiye Nadhiye Video Song _ Rhythm Tamil Movie Songs _Arjun_A. R. Rahman_Pyramid Music.mp3
+│   ├── Nadodi Poonthinkal.wav
+│   ├── Netru Illadha Matram Song _ Pudhiya Mugam Movie _ Suresh Chandra Menon,Revathi _ AR Rahman _ Sujatha.mp3
+│   ├── Oru-Kal.mp3
+│   ├── Oru Naal _ Gulmohar _ Vijay Yesudas _ Swetha Mohan _ Johnson _ O N V Kurup.mp3
+│   ├── Pazhaya-Soru.mp3
+│   ├── Perunthil-Nee-MassTamilan.com.mp3
+│   ├── Pirai-Thedum.mp3
+│   ├── Poomkaattinodum.wav
+│   ├── poove sempoove un vasam varum Song _ Solla Thudikuthu Manasu _ பூவே செம்பூவே.mp3
+│   ├── Poovukkul Official Video _ Full HD _ Jeans _ A.R.Rahman _ Prashanth _ Vairamuthu _ AishwaryaRai.mp3
+│   ├── Shankhum Venchaamaravum Video Song 4K _ Pattabhishekam _ Berny Ignatius _ KJ Yesudas _ Jayaram.mp3
+│   ├── Thaaliyae-Thevaiyillai.mp3
+│   ├── Thalappoli Thakiladi Video Song 4K _ Avittam Thirunal Arogya Sreeman _ S P Venkatesh _ K J Yesudas.mp3
+│   ├── Thalavarakkoru Thilakkam..._ Kilukil Pamparam [1997] _ (Prabheesh).mp3
+│   ├── Thankathinkal kiliyay.wav
+│   ├── അനശ്വരകലാക്കാരൻ  ആലപിച്ച മനോഹരമായ നാടൻപാട്ട് _ Jithesh Kakkidippuram _ Enthinadi Poomkuyile Song.mp3
+│   ├── നീല വെളിച്ചം നിലാമഴ പെയ്യുന്ന _ Neela Velicham _ _ Paduka Saigal Padoo _ Umbayee _ ONV Kurup.mp3
+│   └── പാടുക സൈഗാള്‍ പാടൂ _ Paduka Saigal Padoo _ ONV Kurup _ Umbayee _ Vijayan East Coast _ Ghazals.mp3
+├── 02. Aalilathaaliyumaay.aif
+├── 02. Aaro Nee Aaro.wav
+├── 02. Chanchakkam.flac
+├── 02. Chiluchilum.flac
+├── 02. Chinna Thamarai.flac
+├── 02. Cornfield Chase.flac
+├── 02. Darshana.wav
+├── 02 - Ichu Ichu.flac
+├── 02_Iragai_Poley.wav
+├── 02. Kaatre En Vasal.flac
+├── 02. Kodamanjin Thaazhvarayil (Male).wav
+├── 02. Maamazhayile (F).wav
+├── 02. Mizhikalkkinnu.flac
+├── 02 Mottu Ondru.wav
+├── 02. Mukile Mukile.flac
+├── 02 - Naani Koni.flac
+├── 02 - Neelambalin.flac
+├── 02 Neeyoru Puzhayay (Thilakkam).wav
+├── 02 Nenje Nenje.wav
+├── 02 - Oh Shala Oh Shala - Yuvan Shankar Raja.flac
+├── 02. Onninumallathe (Male Vocals).flac
+├── 02 Oxygen.flac
+├── 02. Pakalppoove (Chronic Bachelor).wav
+├── 02. Phir Le Aya Dil ~ Reprise.wav
+├── 02 - Ponmagal Vandaal.wav
+├── 02 - Self Control.flac
+├── 02. Souhridam.flac
+├── 02 - Te Amo (Duet).flac
+├── 02 - Thee Illai.wav
+├── 02. Tum Tum.flac
+├── 02 - Un Siripinil.wav
+├── 02. Un Sirippinil.aiff
+├── 02. Vaathil Melle.flac
+├── 02. Vennakallin.wav
+├── 02. Vezhambal Kezhum.flac
+├── 02 - Yaar Indha.wav
+├── 02 - Yaarukkum Sollaama.flac
+├── 02. Yalla.flac
+├── 03. Aashiyan ~ Solo.wav
+├── 03 - Akasham Pole.flac
+├── 03. Baale.flac
+├── 03. Enakke  Enakkaa.flac
+├── 03 - Enakkoru Snehidhi.flac
+├── 03. Ezhazhakumaay (Kakkakum Poochakkum Kalyanam).wav
+├── 03. He Bamsuri.flac
+├── 03 - Kaadal Konjam.wav
+├── 03. Kaanumpol [D].wav
+├── 03. Kadamizhiyil.wav
+├── 03 - Keranirakalaadum.flac
+├── 03 - Latcham Calorie.flac
+├── 03. Mizhiyoram.flac
+├── 03 NAILNADIYEA.wav
+├── 03 - Nangaai.wav
+├── 03 Nejodu.wav
+├── 03. Njan Chendena.flac
+├── 03. Oo Solriya Oo Oo Solriya.flac
+├── 03 Oru Naal.wav
+├── 03. Poomariyil.flac
+├── 03. Poraada Poraada.flac
+├── 03. Punchiri Thanjum.flac
+├── 03. Rasaali.flac
+├── 03 Sandhikkatha Kangalil.m4a
+├── 03 Tere Rang.m4a
+├── 03. Thaalolam.flac
+├── 03 The National Anthem.flac
+├── 03. The Sky is Crying.flac
+├── 03 - Unakkenna Venum Sollu.flac
+├── 03 - Unna Partha.wav
+├── 03 - Uppu Karuvadu.wav
+├── 03 - Vanamulla (Male Version).flac
+├── 03 - Yaar Intha - Yuvan Shankar Raja.flac
+├── 03. Yalla.flac
+├── 04 AARUPARANJU.wav
+├── 04 - Ennavo Ennavo.flac
+├── 04. Jeevithamo Nee Maranamo.flac
+├── 04 - Kannung Kannudhan.flac
+├── 04. Kulirillam Vaazhum (Duet).flac
+├── 04. Kyon.wav
+├── 04 - Lolita.wav
+├── 04 Loosu Pennae.flac
+├── 04. Mehabooba.flac
+├── 04. Neela Maalaakhe.flac
+├── 04 - Night Bird.flac
+├── 04 - Oru Kal Oru Kannadi.wav
+├── 04. Pacha Theeyanu Nee.flac
+├── 04. Ponnolathumbi.wav
+├── 04 - Poonilamazha.flac
+├── 04. Poovukal Peyyum.flac
+├── 04_-_Pudhu_Vellai_Mazhai.wav
+├── 04 - Rathipushpam.flac
+├── 04. Rudrashtakam.flac
+├── 04. Saami Saami.flac
+├── 04. Thaane Pookum.flac
+├── 04. Uyiraagi.flac
+├── 04 - Vanamulla (Female Version).flac
+├── 04. Vennilaave.aif
+├── 04 Vizhi Moodi.wav
+├── 04 - Yaar Solli - Yuvan Shankar Raja.flac
+├── 04. Yalla.flac
+├── 05. Ala Barfi.wav
+├── 05. Azhake Neeyenne.flac
+├── 05 - Bheeshma Parvam (Teaser Theme).flac
+├── 05 - Enna Vilai Azhage.wav
+├── 05 - June July.flac
+├── 05. Maattupetti Koyilile.wav
+├── 05 Narumugaye.wav
+├── 05. Nee Manimukilaadakal.aif
+├── 05 - Nee Vandhu Ponadhu.flac
+├── 05 - Pesadhe - Yuvan Shankar Raja.flac
+├── 05. Saphalamee Yathra.flac
+├── 05. Shankhum Venchaamaravum.flac
+├── 05. Thalli Pogathey.flac
+├── 05 THUMBHI KALYANATHINU.wav
+├── 05. Urangan Nee.flac
+├── 05. Yalla.flac
+├── 06 - Azhagae - Yuvan Shankar Raja.flac
+├── 06 - Bheeshma Parvam (Trailer Theme).flac
+├── 06 CHINGAMASSAM VANNU CHERNNAL.wav
+├── 06. Etho Swakaryam.flac
+├── 06. Innale Ente Nenjile.flac
+├── 06. Nandi.flac
+├── 06 Nee Korinaal.m4a
+├── 06 Pakka Local.wav
+├── 06. Pooncholakkiliye.flac
+├── 07. Adiye Un Kangal (FromRowthiram).flac
+├── 07 I Need Love.mp3
+├── 07. Manohari.flac
+├── 07 - Mizhiyile Naanam (feat. Sujatha).flac
+├── 07. Oru kinnaara (Speed).wav
+├── 07 - Pattukutty - Yuvan Shankar Raja.flac
+├── 07. Pistah.flac
+├── 07. Saawali Si Raat.wav
+├── 07. Thottal Poomalarum.flac
+├── 08. Aashiyan ~ Duet.wav
+├── 08. Ilaveyil Viralukalal.flac
+├── 08. Kilippenne Nilaavin (Dhosth).wav
+├── 08. Markazhiye Mallikaye.wav
+├── 08. MG Sreekumar-Manassum Manassum.flac
+├── 08. Mountains.flac
+├── 08. Neermizhi Peeliyil (Vachanam).wav
+├── 08. Ohohohoho Rithupallaviyil.wav
+├── 08 Pavizhampol.wav
+├── 08 - Sakka Podu - Yuvan Shankar Raja.flac
+├── 08 - Thaarakappodi.flac
+├── 09 - Kadhal Valarthen - Yuvan Shankar Raja.flac
+├── 09 Padam Vanamali (Kakkakuyil).wav
+├── 102 -  Lag Ja Gale Se Phir (From Woh Kaun Thi).flac
+├── 10. Mazha Peythu Maanam.wav
+├── 10. Merke Merke ( From Kanda Naal Mudhalai).flac
+├── 10 - Oru Maalai Neram - Yuvan Shankar Raja.flac
+├── 10 - Sweet Lullaby (Ambient Mix).flac
+├── 11 Alare Govinda (Kakkakuyil).wav
+├── 11 Kab Tak Dil Ki Khair.flac
+├── 11 - Oru Vaanavillin Pakkathile - Yuvan Shankar Raja.flac
+├── 12 - Ada da En Meethu - Yuvan Shankar Raja.flac
+├── 13. Chandana Manivaathil (Marikkunnilla Njan).wav
+├── 13 - Moodupanikkul - Yuvan Shankar Raja.flac
+├── 14. Aadat (Movie Version - Kalyug).flac
+├── 14. Boum Boum (Enigma Radio Edit).flac
+├── 14. Koorirul Moodiya (Mookkilla Rajyathu Murimookkan Rajavu).wav
+├── 14 - Thathi Thaavum - Yuvan Shankar Raja.flac
+├── 14 Vellinilaathumbikalo.wav
+├── 15-Aarum Aarum Kanathe.mp3
+├── 15 - Angry Bird - Yuvan Shankar Raja.flac
+├── 15. Ente Sindoora Rekhayilengo (Sindoora Rekha).wav
+├── 15 Thakilu Pukilu (Ravanaprabhu).wav
+├── 15. Thalappoli Thakiladi (Avittam Thirunaal Aarogya Sriman).wav
+├── 17. Always Remember Us This Way.flac
+├── 1. Aaro Viralmeetti (Recreated Version).flac
+├── 1. Arabic Kuthu (From Beast).flac
+├── 1. Ariyathe Ninayathe.flac
+├── 1. Edavappathi (The Summer Rain).flac
+├── 1. En Kadhal.flac
+├── 1. Evideneepoyalum.flac
+├── 1. Hariharan - Unnai Naan (FLAC).flac
+├── 1. Kathara Mizhimar.flac
+├── 1. Manathe Ambili.flac
+├── 1. MANGALANGAL.flac
+├── 1. Mazhaye Toomazhaye.flac
+├── 1_Naan_Pizhai_From__Kaathuvaakula_Rendu_Kaadhal_.flac
+├── 1. Naragathil.flac
+├── 1. Nee Kaanumo (Recreated Version).flac
+├── 1. Oru Noorashakal (Recreated Version).flac
+├── 1. Paandi Melam (Temple Instruments).flac
+├── 1. Shiv Tandav Strotam.flac
+├── 1. West Coast.flac
+├── (2019) Cigarettes After Sex - Cry [FLAC]
+│   ├── 01 - Don't Let Me Go.flac
+│   ├── 02 - Kiss It Off Me.flac
+│   ├── 03 - Heavenly.flac
+│   ├── 04 - You're the Only Good Thing In My Life.flac
+│   ├── 05 - Touch.flac
+│   ├── 06 - Hentai.flac
+│   ├── 07 - Cry.flac
+│   ├── 08 - Falling In Love.flac
+│   └── 09 - Pure.flac
+├── (2020) Brian Eno & Roger Eno - Mixing Colours [FLAC]
+│   ├── 01 - Spring Frost.flac
+│   ├── 02 - Burnt Umber.flac
+│   ├── 03 - Celeste.flac
+│   ├── 04 - Wintergreen.flac
+│   ├── 05 - Obsidian.flac
+│   ├── 06 - Blonde.flac
+│   ├── 07 - Dark Sienna.flac
+│   ├── 08 - Verdigris.flac
+│   ├── 09 - Snow.flac
+│   ├── 10 - Rose Quartz.flac
+│   ├── 11 - Quicksilver.flac
+│   ├── 12 - Ultramarine.flac
+│   ├── 13 - Iris.flac
+│   ├── 14 - Cinnabar.flac
+│   ├── 15 - Desert Sand.flac
+│   ├── 16 - Deep Saffron.flac
+│   ├── 17 - Moss.flac
+│   ├── 18 - Violet.flac
+│   ├── 19 - Manganese.flac
+│   ├── 20 - Vermilion.flac
+│   ├── 21 - Malachite.flac
+│   ├── 22 - Marble.flac
+│   ├── 23 - Pewter.flac
+│   ├── 24 - Cerulean Blue.flac
+│   └── 25 - Slow Movement; Sand.flac
+├── 2022 കൂടുതൽ മെച്ചപ്പെടുത്താൻ _ Malayalam Inspirational Video _ MKJayadev.m4a
+├── 20 Biggest Hits  Harris Jayaraj, Vol. 1 CD 1 TRACK 2 (FLAC).flac
+├── 20_Biggest_Hits_Harris_Jayaraj,_Vol_2_CD_1_TRACK_10_FLAC.flac
+├── 20 Biggest Hits  Harris Jayaraj, Vol. 2 CD 1 TRACK 1 (FLAC).flac
+├── 20 Biggest Hits  Harris Jayaraj, Vol. 2 CD 1 TRACK 4 (FLAC).flac
+├── 20 Biggest Hits  Harris Jayaraj, Vol. 2 CD 1 TRACK 7 (FLAC).flac
+├── 20_Biggest_Hits_Harris_Jayaraj,_Vol_2_CD_2_TRACK_10_FLAC.flac
+├── 20 Biggest Hits  Harris Jayaraj, Vol. 2 CD 2 TRACK 1 (FLAC).flac
+├── 20 Biggest Hits  Harris Jayaraj, Vol. 2 CD 2 TRACK 2 (FLAC).flac
+├── 20 Biggest Hits  Harris Jayaraj, Vol. 2 CD 2 TRACK 3 (FLAC).flac
+├── 20 Biggest Hits  Harris Jayaraj, Vol. 2 CD 2 TRACK 5 (FLAC).flac
+├── 20 Biggest Hits  Harris Jayaraj, Vol. 2 CD 2 TRACK 6 (FLAC).flac
+├── 20 Biggest Hits  Harris Jayaraj, Vol. 2 CD 2 TRACK 7 (FLAC).flac
+├── 20 Biggest Hits  Harris Jayaraj, Vol. 2 CD 2 TRACK 8 (FLAC)(1).flac
+├── 20 Biggest Hits  Harris Jayaraj, Vol. 2 CD 2 TRACK 8 (FLAC).flac
+├── 20 Biggest Hits  Harris Jayaraj, Vol. 2 CD 2 TRACK 9 (FLAC).flac
+├── 22. Tears in the Rain.flac
+├── 28 - Kuch To Hua Hai (From _Kal Ho Naa Ho_).flac
+├── 2. Hariharan, Bhavatharini - Thaaliyae Thevaiyillai (FLAC).flac
+├── 2. Janmagal.flac
+├── 2. Jashn-E-Bahaaraa.flac
+├── 2 Kaalangathale (feat. Karthik).flac
+├── 2. Sachin Warrier, Gayathri Suresh - Neelashalabame (FLAC).flac
+├── 2. Thedi Thedi.flac
+├── 30. Aa Bhi Ja Sanam.flac
+├── 33. O Re Piya.flac
+├── 3. Maravithan.flac
+├── 3. Oru Raathri.flac
+├── 3. Paarijatham.flac
+├── 3_Unna_Paartha_Naeram_feat_Vijay.flac
+├── 3 Yenna Solla Pore (feat. M.L.R. Karthikeyan).flac
+├── 41. Sirikkadhey (From Remo).flac
+├── 4. Darvesh.flac
+├── 4. Orumaram.flac
+├── 5_6188011072725712990.flac
+├── 5_6188011072725712992.flac
+├── 5. Karayu.flac
+├── 5. Orusokaganam.flac
+├── 6 Haath Chhute Bhi.flac
+├── 6. Panjedhriyathilum.flac
+├── 6_Yuvan_Shankar_Raja,_Shweta_Mohan_Yedhedo_Ennangal_FLAC.flac
+├── 7. Pranayaardram.flac
+├── 8. Priyamoru.flac
+├── 90s Top 50 (Hindi)
+│   ├── Aankh Marey.mp3
+│   ├── Aankhon Ki Gustakhiyan Maaf Ho.mp3
+│   ├── Aankhon Se Tune Kya Keh Diya.mp3
+│   ├── Aawaz Do Humko (Happy).mp3
+│   ├── Ae Ajnabi.mp3
+│   ├── Ae Mere Humsafar.mp3
+│   ├── Bholi Si Surat.mp3
+│   ├── Chaiyya Chaiyya.mp3
+│   ├── Chand Chhupa Badal Mein.mp3
+│   ├── Chura Ke Dil Mera.mp3
+│   ├── Dheere Dhheere Se Meri Zindagi Mein Aana.mp3
+│   ├── Dil Hai Ke Manta Nahin.mp3
+│   ├── Dil Kho Gaya.mp3
+│   ├── Dil Se Re.mp3
+│   ├── Dil To Pagal Hai.mp3
+│   ├── Do Dil Mil Rahe Hai.mp3
+│   ├── Ek Ladki Ko Dekha To - Sanam.mp3
+│   ├── Ek Sanam Chahiye Aashiqui Ke Liye.mp3
+│   ├── Ho Gaya Hai Tujhko To Pyar Sajna.mp3
+│   ├── Humko Sirf Tumse.mp3
+│   ├── Jaadu Teri Nazar.mp3
+│   ├── Jadoo Hai Tera.mp3
+│   ├── Jo Haal Dil Ka.mp3
+│   ├── Kaho Naa Pyar Hai (Happy).mp3
+│   ├── Kuchh Na Kaho (Happy).mp3
+│   ├── Kuch Kuch Hota Hai.mp3
+│   ├── Ladki Badi Anjani Hai.mp3
+│   ├── Madhosh Dil Ki Dhadkan.mp3
+│   ├── Main Duniya Bhula Doonga.mp3
+│   ├── Mera Dil Bhi Kitna Pagal Hai.mp3
+│   ├── Mere Khwabon Mein.mp3
+│   ├── Mere Mehboob Mere Sanam.mp3
+│   ├── Meri Mehbooba.mp3
+│   ├── Mujhe Raat Din Bas.mp3
+│   ├── Na Tum Jano Na Hum.mp3
+│   ├── Nazar Ke Samne.mp3
+│   ├── O Jaana Na Jaana - Part 1.mp3
+│   ├── O O Jaane Jaana.mp3
+│   ├── Pehla Nasha.mp3
+│   ├── Pehla Pehla Pyar.mp3
+│   ├── Pehli-pehli Baar Mohabbat Ki Hai.mp3
+│   ├── Phir Bhi Dil Hai Hindustani.mp3
+│   ├── Ruk Ja O Dil Deewane.mp3
+│   ├── Sandese Aate Hai-Ke Ghar Kab Aaoge.mp3
+│   ├── Taal Se Taal.mp3
+│   ├── Tip Tip Barsa Paani.mp3
+│   ├── Too Cheez Badi Hain (Duet).mp3
+│   ├── Tujhe Dekha To.mp3
+│   ├── Tu Meri Zindagi Hai.mp3
+│   └── Ye Kaali Kaali Aankhen.mp3
+├── 9 (Nine) - Akale Song Video  _ Prithviraj Sukumaran, Mamta Mohandas.mp3
+├── A2-MALAYALAM
+│   └── MP3
+│       └── SPECIAL FOLDERS
+│           └── Malayalam Melodies
+│               └── Melodies-1
+│                   └── Pookkalam.mp3 
+├── Aadhyamayi-FLAC
+│   ├── 01. Aadyamai.flac
+│   ├── 02. Iniyarkumarodum.flac
+│   ├── 03. Urangan Angenikku.flac
+│   ├── 04. Peythozhiyatha.flac
+│   ├── 05. Urangan Nee.flac
+│   ├── 06. Etho Swakaryam.flac
+│   ├── 07. Iniyarkumarodum.flac
+│   ├── 08. Nammude Anuraga.flac
+│   ├── 09. Aadyamai.flac
+│   └── 10. Inayarkumarodum.flac
+├── Aakashamake - Namukku Parkkan Munthirithoppukal (1986).wav
+├── Adiye-MassTamilan.fm.mp3
+├── Akale Lyric Video _ Manoharam _ Vineeth Sreenivasan _ Sid Sriram _ Anvar Sadik _ Sanjeev T.mp3
+├── Akkam Pakkam 8D _ Kireedam _ Ajith Kumar _ Trisha _ G.V Prakash Kumar _ 8D BeatZ.m4a
+├── Akkam-Pakkam.mp3
+├── Ambalapuzha Vijayakumar
+│   ├── 1. Deva Deva.flac
+│   ├── 2. Saarasa Dala Nayane.flac
+│   ├── 3. Thingal Chooda Priye.flac
+│   ├── 4. Mudambadiyil Vaazhum.flac
+│   ├── 5. Minnum Ponnin Chilambum.flac
+│   ├── 6. Gana Sangam Idayunna.flac
+│   ├── 7. Dharma Samvardhini.flac
+│   ├── 8. Sailaraajathanaye.flac
+│   └── 9. Paahimaam Paripaahimaam.flac
+├── Amma Amma.flac
+├── Anaadhi Yugangallai - Vijay Yesudas (FLAC).flac
+├── Anirudh - Aathi (From Kaththi).flac
+├── Anirudh Ravichander - Yaanji.mp3
+├── Anthiveyil Ponnuthirum.wav
+├── Apocalypse - Cigarettes After Sex (FLAC).flac
+├── Arun Das - Hey Bansuri.mp3
+├── Ay Hairathe - A.R. Rahman, Alka Yagnik [WORMONO x @Veerdo Lofi Remake] _ Guru _ Bollywood Lofi.m4a
+├── Ay Hairathe (From Guru).wav
+├── Ayyappathom [2011] ACD Rip WAV
+│   ├── 01. Nintakathom.wav
+│   ├── 02. Ayyappa Thruppadam.wav
+│   ├── 03. Ayya Ninnude.wav
+│   ├── 04. Maamalyil Jyothi.wav
+│   ├── 05. Ayyappa Ponnanikovilil.wav
+│   ├── 06. Vedaantha Sangeetham.wav
+│   ├── 07. Shankarasuthan.wav
+│   ├── 08. Shankara Sambhava.wav
+│   ├── 09. Ayyappaswaami Than.wav
+│   ├── 10. Onnaam Padi.wav
+│   └── 11. Aruna Bhaasura.wav
+├── Azhagho_Azhaghu_From__Samar__Yuvanshankar.flac
+├── Azhakaalila.flac
+├── Bahramji
+│   ├── (1) [Bahramji & Maneesh de Moor] Crazy Heart.flac
+│   ├── (2) [Bahramji & Maneesh de Moor] Watch The Cat.flac
+│   ├── 3_Bahramji_&_Maneesh_de_Moor_La_Illaha_feat_Sudha.flac
+│   ├── (4) [Bahramji & Maneesh de Moor] Moment With You.flac
+│   ├── (5) [Bahramji & Maneesh de Moor] Dreamcatcher(1).flac
+│   ├── (5) [Bahramji & Maneesh de Moor] Dreamcatcher.flac
+│   ├── (6) [Bahramji & Maneesh de Moor] Harambol Connection.flac
+│   └── 7_Bahramji_&_Maneesh_de_Moor_Return_Of_The_Nightingale.flac
+├── Beat It.flac
+├── BGM Fiesta - A Tribute To Johnson master Official _ Malayalam Movie & Music Database_ M3DB.mp3
+├── Bijibal - Chirakuveesi (Male Version).flac
+├── Biosphere - Substrata (1997) [EAC-FLAC]
+│   ├── Biosphere - Substrata.cue
+│   ├── Biosphere - Substrata.flac
+│   ├── Biosphere - Substrata.flac.cue
+│   └── Biosphere - Substrata.log
+├── Bob Marley And The Wailers Exodus 1977 FLAC+CUE [RLG]
+│   ├── 01 Natural Mystic.flac
+│   ├── 02 So Much Things To Say.flac
+│   ├── 03 Guiltiness.flac
+│   ├── 04 The Heathen.flac
+│   ├── 05 Exodus.flac
+│   ├── 06 Jamming.flac
+│   ├── 07 Waiting In Vain.flac
+│   ├── 08 Turn Your Lights Down Low.flac
+│   ├── 09 Three Little Birds.flac
+│   ├── 10 One Love,People Get Ready.flac
+│   ├── Bob Marley & The Wailers - Exodus.log
+│   ├── Bob Marley & The Wailers - Exodus.m3u8
+│   └── Exodus.cue
+├── Bob Marley - Star Mark Greatest Hits 2CD (2008) [FLAC] vtwin88cube
+│   ├── Disc 1
+│   │   ├── 01.Iron Lion Zion.flac
+│   │   ├── 02.Could You Be Loved.flac
+│   │   ├── 03.Is This Love.flac
+│   │   ├── 04.I Shot The Sheriff.flac
+│   │   ├── 05.Jamming.flac
+│   │   ├── 06.One Love.flac
+│   │   ├── 07.No Woman, No Cry.flac
+│   │   ├── 08.Get Up Stand Up.flac
+│   │   ├── 09.Buffalo Soldier.flac
+│   │   ├── 10.Exodus.flac
+│   │   ├── 11.Sun Is Shining.flac
+│   │   ├── 12.Roots Rock Reggae.flac
+│   │   ├── 13.So Much Trouble In The World.flac
+│   │   ├── 14.Waiting In Vain.flac
+│   │   ├── 15.Three Little Birds.flac
+│   │   ├── 16.Stir It Up.flac
+│   │   ├── 17.Satisfy My Soul.flac
+│   │   └── 18.Punky Reggae Party.flac
+│   └── Disc 2
+│       ├── 01.Positive Vibration.flac
+│       ├── 02.Survival.flac
+│       ├── 03.Kaya.flac
+│       ├── 04.Keep On Moving.flac
+│       ├── 05.Lively Up Yourself.flac
+│       ├── 06.Concrete Jungle.flac
+│       ├── 07.Africa Unite.flac
+│       ├── 08.Easy Skanking.flac
+│       ├── 09.Chant Down Babylon.flac
+│       ├── 10.Kinky Reggae.flac
+│       ├── 11.Natural Mystic.flac
+│       ├── 12.Put It On.flac
+│       ├── 13.Ride Natty Ride.flac
+│       ├── 14.Them Belly Full (But We Hungry).flac
+│       ├── 15.Zion Train.flac
+│       ├── 16.One Drop.flac
+│       ├── 17.Duppy Conqueror.flac
+│       ├── 18.Rebel Music (3 O'Clock Road Block).flac
+│       └── 19.Zimbabwe.flac
+├── Bolo Ta Ra Ra.wav
+├── Brian Eno - Ambient 1 Music for Airports Electronic [FLAC-Lossless]
+│   └── Brian Eno - Ambient 1 Music for Airports [FLAC-Lossless]
+│       ├── 01 Brian Eno - 1-1.flac
+│       ├── 02 Brian Eno - 1-2.flac
+│       ├── 03 Brian Eno - 2-1.flac
+│       ├── 04 Brian Eno - 2-2.flac
+│       └── Brian Eno Ambient 1 Music for Airports.cue
+├── Budhaditya Mukherjee - Enchanting Hour With Budhaditya Mukherjee (1982) FLAC
+│   ├── 1. Raga Yaman Kalyan (Alap, Gat in Vilambit and Drut Teental).flac
+│   ├── 2. Raga Bhopali (Gat in Teental).flac
+│   ├── 3. Raga Tilak Kamod (Gat in Sitarkhani).flac
+│   ├── BACK Budhaditya Mukherjee 1982 'Enchanting Hour'.JPG
+│   └── FRONT Budhaditya Mukherjee 1982 'Enchanting Hour'.JPG
+├── Chandrikayilaliyunnu.wav
+├── Chantholla Cherudeyi _ Jithesh Kaithola _ Kaithola Nadanpattukal _ കൈതോല _ Malabar Cafe.mp3
+├── Chayappattu - Sithara Krishnakumar - High On Music @Wonderwall Media.mp3
+├── Cherathe - Siddharth Mahadevan (FLAC).flac
+├── Classical Encounters- Srivalsan J Menon
+│   ├── 1. Rara Mayanti - Asaveri - Adi.flac
+│   ├── 2. Mamavasada - Natta Kurinji - Rupakam.flac
+│   ├── 3. Meenakshi - Poorvi Kalyani - Adi.flac
+│   ├── 4. Eppo Varuvaro - Johnpuri - Adi.flac
+│   ├── 5. Krishna Nee Begane - Yamuna Kalyani - Misra Chappu.flac
+│   └── 6. Evaroora - Mohanam - Misra Chappu.flac
+├── College Days - Vennilavin chirakileri.m4a
+├── Dailamo Dailamo.flac
+├── David (Tamil) – Kanave Kanave.mp3
+├── Depeche Mode - Best Of 2006 [FLAC] [h33t] - Kitlope
+│   ├── 01. Personal Jesus - Depeche Mode.flac
+│   ├── 02. Just Can't Get Enough - Depeche Mode.flac
+│   ├── 03. Everything Counts - Depeche Mode.flac
+│   ├── 04. Enjoy The Silence - Depeche Mode.flac
+│   ├── 05. Shake The Disease - Depeche Mode.flac
+│   ├── 06. See You - Depeche Mode.flac
+│   ├── 07. It's No Good - Depeche Mode.flac
+│   ├── 08. Strangelove - Depeche Mode.flac
+│   ├── 09. Suffer Well - Depeche Mode.flac
+│   ├── 10. Dream On - Depeche Mode.flac
+│   ├── 11. People Are People - Depeche Mode.flac
+│   ├── 12. Martyr - Depeche Mode.flac
+│   ├── 13. Walking In My Shoes - Depeche Mode.flac
+│   ├── 14. I Feel You - Depeche Mode.flac
+│   ├── 15. Precious - Depeche Mode.flac
+│   ├── 16. Master And Servant - Depeche Mode.flac
+│   ├── 17. New Life - Depeche Mode.flac
+│   ├── 18. Never Let Me Down Again - Depeche Mode.flac
+│   ├── Best Of Depeche Mode, Vol. 1.cue
+│   ├── Depeche Mode - Best Of Depeche Mode, Vol. 1.log
+│   └── Depeche Mode - Best Of Depeche Mode, Vol. 1.m3u
+├── desktop.ini
+├── Dhavanipotta-Deepavali.mp3
+├── Dhoore... Dhoore... _ 1080p _ Nadodi _ Mohanlal, Mohini _ S.P Venkitesh Hits.mp3
+├── Dhoothu Varuma - Sunitha Sarathi  S Febi Mani (FLAC).flac
+├── D. Imman - Un Mele Oru Kannu (Karaoke Version) (FLAC).flac
+├── Ding-Dong-MassTamilan.com.mp3
+├── Dwadasiyil_Mani_Deepika_Full_Song_Malayalam_Madhuranombarakkattu.m4a
+├── Edan Poove.wav
+├── Ella Pugazhum - A R Rahman.flac
+├── #Eloorbiju Chandrasekhara bhaval padangal - Shiva stuthi.mp3
+├── #Eloorbiju - Chempattu uduthu.......mp3
+├── #Eloorbiju - harihara thanaya deva.mp3
+├── #Eloorbiju - Mangala moorthe - Ganapathy stuthi.mp3
+├── #Eloorbiju - Nanda nandanan mukundan.mp3
+├── Eminem - 18 - 'Till I Collapse.flac
+├── Enadhuyirae 8D _ Bheema _ Vikram _ Trisha _ Harris Jayaraj _ 8D BeatZ.m4a
+├── Enadhuyire - Sadhana Sargam.flac
+├── Endrendrum Punnagai - Vaan Engum Nee Minna Video _ Harris Jayaraj.mp3
+├── Enigma - MCMXC a.D
+│   ├── 1 - The Voice Of Enigma.flac
+│   ├── 2 - Principles Of Lust.flac
+│   ├── 3 - Callas Went Away.flac
+│   ├── 4 - Mea Culpa.flac
+│   ├── 5 - The Voice & The Snake.flac
+│   ├── 6 - Knocking On Forbidden Doors.flac
+│   ├── 7 - Back To The Rivers Of Belief.flac
+│   └── Artwork
+├── En Kadhale Video Song _ Duet Tamil Movie _ Prabhu _ Meenakshi _ Ramesh Aravind _ AR Rahman.m4a
+├── Ennavale.flac
+├── Ennavendru-Solvathamma-MassTamilan.com.mp3
+├── Ennennum
+│   ├── 01. Poovu Chodichu.flac
+│   ├── 02. Yamini En.flac
+│   ├── 03. Punyadinamalle.flac
+│   ├── 04. Arikilumilla Nee.flac
+│   ├── 05. Karale Kanave.flac
+│   ├── 06. Kadhayurangunnoru.flac
+│   ├── 07. Poovu Chodichu.flac
+│   ├── 08. Punyadinamalle.flac
+│   ├── 09. Sakhi Ennathma Sakhi.flac
+│   ├── 10. Kadhayurangunnoru.flac
+│   ├── 11. Oru Cheru Punchiri.flac
+│   └── 12. Poovu Chodichu.flac
+├── Ennulliletho _1080p_ Meerayude Dukhavum Muthuvinte Swapnavum _ Prithviraj _Renuka Menon_ Ambili Devi.m4a
+├── En_Peeru_Meenakumari_Devi_Sri_Prasad_Malathy_Lakshman_FLAC.flac
+├── Entho Mozhiyuvan CD 1 TRACK 1 (FLAC).flac
+├── EthraRathrikalil_VIOLET___Official_Video_Song_Vineeth_Sreenivasan_-_Harrison_pv.mp3
+├── Excuse Me - Devi Sri Prasad  Vikram  Suchitra (FLAC).flac
+├── Excuses (Official Video) _ AP Dhillon _ Gurinder Gill _ Intense.m4a
+├── Existence - Gayatri Mantra.flac
+├── file_finder.bat
+├── Ganesh Sundaram - Himakanam.flac
+├── Ghazal
+│   ├── 10 Gudiya Tujh Par Ik Pal.flac
+│   ├── 12 Yun Sajaa Chand.flac
+│   ├── 13 Tere Gham Ko.flac
+│   ├── 14 Ghazab Kiya.flac
+│   ├── 15 Aap Ka Aitbaar.flac
+│   ├── 1 Ye Aasmaan.flac
+│   ├── 2 Naam Likh Kar.flac
+│   ├── 3 Maahi Rokna Aaj - Geet.flac
+│   ├── 4 Shamma Jalti Rahi - Nazam.flac
+│   ├── 5 Yeh Dil Jo Pyarka.flac
+│   ├── 6 Haath Chhute Bhi.flac
+│   ├── 7 Dard Apna Likh Na Payee.flac
+│   ├── 8 Har Ek Faisla Har Imtehaan.flac
+│   └── 9 Phool Khila De.flac
+├── Ghoomar.flac
+├── Good morning.mp3
+├── G Venugopal - Venunaadham [1993] ACD Rip WAV
+│   ├── 01. Thaane Poovitta (Sasneham).wav
+│   ├── 02. Mainaaka Ponmudiyil (Mazhavilkavadi).wav
+│   ├── 03. Swargangal Swapnangal (Malootty).wav
+│   ├── 04. Onnaam Raagam Paadi (Thoovanathumbikal).wav
+│   ├── 05. Poothaalam (Kalikkalam).wav
+│   ├── 06. Thalirvettilayundo (Dhruvam).wav
+│   ├── 07. Kinaavinte Koodin (Shubhayathra).wav
+│   ├── 08. Pallitherundo (Mazhavilkavadi).wav
+│   ├── 09. Vasanthathin Manicheppu (Varthamana Kalam).wav
+│   ├── 10. Etho Vaarmukilin (Pookkalam Varavayi).wav
+│   ├── 11. Aakaashagopuram (Kalikkalam).wav
+│   ├── 12. Unarumee Gaanam (Moonnam Pakkam).wav
+│   ├── 13. Chandana Manivaathil (Marikkunnilla Njan).wav
+│   ├── 14. Manasse Shaanthamaaku (Aalilakkuruvikal).wav
+│   └── 15. Kulirinte (Ente Sreekuttikku - Maanasam).wav
+├── G_V_Prakash_Kumar,_Saindhavi_Yaar.flac
+├── Hairharan - Parayan Maranna.flac
+├── Happy_Days_Original_Motion_Picture.flac
+├── Hariharan,_Sarath_Kumar,_Various_Artists_Rosappu_Chinna_Rosappu.flac
+├── Havana.flac
+├── Hey Vaada Vaada - MLR Karthikeyan  Anitha (FLAC).flac
+├── High On Love.flac
+├── I Got You.flac
+├── Ilaman Kanniloode.wav
+├── Injathea.mp3
+├── Innisai Paadivarum _ Flute Cover by Rajesh Cherthala.mp3
+├── ipod music
+│   ├── 01 - Beautiful (feat. Pharrell & Uncle Charlie Wilson).mp3
+│   ├── 01 Ennai Konjam.mp3
+│   ├── 02. Raga Gaud Malhar.mp3
+│   ├── 02 - Snoop Dogg (What's My Name Pt. 2).mp3
+│   ├── 03 - Woof! (feat. Mystikal & Fiend).mp3
+│   ├── 04 - Lay Low (feat. Master P, Nate Dogg, Butch Cassidy & Tha Eastsidaz).mp3
+│   ├── 04 Oru Ooril.mp3
+│   ├── 04 Starman.mp3
+│   ├── 05 - Down 4 My N's (feat. C-Murder & Magic).mp3
+│   ├── 05 Utirin Uyirae.mp3
+│   ├── 06 - From Tha Chuuuch To Da Palace (feat. Pharrell).mp3
+│   ├── 07 - Bitch Please (feat. Xzibit).mp3
+│   ├── 08 - Still A G Thang.mp3
+│   ├── 09 - Just Dippin' (feat. Dr. Dre  & Jewell).mp3
+│   ├── 10 - Wrong Idea (feat. Bad Azz, KoKane & Lil HD).mp3
+│   ├── 11 - Stoplight.mp3
+│   ├── 12 - Snoopafella.mp3
+│   ├── 13 - The One And Only.mp3
+│   ├── 14 - Loosen' Control (feat. Butch Cassidy).mp3
+│   ├── 15 - Gin & Juice II.mp3
+│   ├── 16 - Stacey Adams (feat. KoKane).mp3
+│   ├── 17 - Ride On-Caught Up! (feat. Kurupt).mp3
+│   ├── 18 - G Bedtime Stories.mp3
+│   ├── 19 - Hell Yeah (Stone Cold Steve Austin Theme) (feat. W.C.).mp3
+│   ├── 1 Hour Slow Blues _ Vol. 1 _ Don_s Tunes.mp3
+│   ├── Aa Bhi Ja Sanam - Atif Aslam.mp3
+│   ├── Aadyamai Kandanaal - Thooval Kottaram.mp4.mp3
+│   ├── Aakashamake - Namukku Parkkan Muntirithoppukal  K. J. YesudasJohnsonO. N. V. Kurup.mp3
+│   ├── Aalapanam Thedum Thaimanam.mp3
+│   ├── Aalilathaali.mp3
+│   ├── Aa NadiyoramMp3.mp3
+│   ├── Aao Naa _ Aishwariya Rai _ Vivek Oberoi _ Sadhana Sargam _ Udit Narayan _ Kyun Ho Gaya Na Songs.mp3
+│   ├── Aao Na - Adnan Sami.mp3
+│   ├── Aaraadhike - Ambili (Original Motion Picture Soundtrack).mp3
+│   ├── Aararum (Male Version) - Chandrolsavam (Original Motion Picture Soundtrack).mp3
+│   ├── Aaro Nee Aaro [Maango.info] - Shweta Mohan, K J Yesudas.mp3
+│   ├── Aarum Kaanathe  Pkmusiqcom.mp3
+│   ├── Aaru Paranju Video Song 4K _  Pulival Kalyanam _ Berny-Ignatius _ Shafi _ Jayasurya.mp3
+│   ├── Aathangara Orathil.mp3
+│   ├── Aaye Ho Meri Zindagi Mein (Male).mp3
+│   ├── Aa Zara (Reloaded).mp3
+│   ├── Aazhakadalinte (Male Version) - Chandupottu (Original Motion Picture Soundtrack).mp3
+│   ├── Aazhi-Soozhndha-MassTamilan.org.mp3
+│   ├── Abhi Abhi (Duet) - KK, Akriti Kakar, Shreya Ghoshal.mp3
+│   ├── Adada Mazhaida.mp3
+│   ├── Adiyogi.mp3
+│   ├── Adnan Sami-Bheegi Raaton Mein.mp3
+│   ├── Ae Ajnabi.mp3
+│   ├── Ae Mere Humsafar.mp3
+│   ├── Ae Nazneen Suno Na.mp3
+│   ├── Afreen Afreen-Rahat Fateh Ali.mp3
+│   ├── Ajab Si.mp3
+│   ├── Akale Oru Kaadinte (From Ramante Edanthottam) - Best of 2017 Malayalam.mp3
+│   ├── Alakapuriyil Azhakin Vaniyil _ Thudarkadha _ Saikumar _ Maathu - S P Venkitesh Hits.mp3
+│   ├── Alare Govinda Video Song _ 4K Remastered _ Kakkakuyil _ Mohanlal _ Mukesh _ M G Sreekumar.mp3
+│   ├── #Alare​ Video Song _ Member Rameshan 9aam Ward _ Arjun Ashokan, Gayathri Ashok _ Kailas _ Shabareesh.m4a
+│   ├── Allikalil.mp3
+│   ├── Allimalarkavil.MP3
+│   ├── Amali Thumali.mp3
+│   ├── Ambaadi Payyukal - Chandranudikkunnadhikkil (Original Motion Picture Soundtrack).mp3
+│   ├── Amma-Amma.mp3
+│   ├── Anaadhi Yugangalai [MaangoMe].mp3
+│   ├── Anbae Anbae.mp3
+│   ├── Anbe-En-Anbe.mp3
+│   ├── Anbil Avan.mp3
+│   ├── Anjali Anjali.mp3
+│   ├── Annul Maelae.mp3
+│   ├── Anthaathi - SenSongsMp3.Co.mp3
+│   ├── Anuragalola (From ''Dhwani'') - Malayalam Evergreen Melody Songs.mp3
+│   ├── Appalaale Video Song Nayattu Movie Vishnu Vijay Anwar Ali Kunchacko Boban Martin Prakkat.mp3
+│   ├── Appudo Ippudo.mp3
+│   ├── Ariyadhavayasu [Maango.info].mp3
+│   ├── Ariyathe Ariyathe (Female Vocals) - Ravanaprabhu (Original Motion Picture Soundtrack).mp3
+│   ├── Ariyumo.mp3
+│   ├── Athirezha Mukile.mp3
+│   ├── Athmavile Video Song _ Kettiyolaanu Ente Malakha _ Asif Ali _ William Francis _ Magic Frames.mp3
+│   ├── Avvaa Havvaa HD 1080p _ Kunchacko Boban, Aswathy Menon, Jagadish -    Sathyam Sivam Sundaram.mp3
+│   ├── Aye Khuda.mp3
+│   ├── Azhage-StarMusiQ.Com.mp3
+│   ├── Azhake(MalluLuv.Com).mp3
+│   ├── Azhalinte Azhangalil (From Ayalum Njanum Thammil) (Male Vocals) - Melodious Hits of Ouseppachan.mp3
+│   ├── Baarish - Yaariyan.mp3
+│   ├── Bachna Ae Haseeno.mp3
+│   ├── Badass songs that get you pumped.mp3
+│   ├── Bahara.mp3
+│   ├── Bahramji & Maneesh de Moor - Dreamcatcher.mp3
+│   ├── Bahut Pyar Karte Hain.mp3
+│   ├── Bang Bang - Benny Dayal, Neeti Mohan.mp3
+│   ├── Barsaat - Adnan Sami.mp3
+│   ├── Beautiful in White - Shane Filan.mp3
+│   ├── Behti Hawa Sa Tha Woh - Shaan, Shantanu Moitra.mp3
+│   ├── Best MMA Aggressive Hip Hop Music.mp3
+│   ├── Bheegi Bheegi - James.mp3
+│   ├── Bhula Dena (1).mp3
+│   ├── Bin Tere (1).mp3
+│   ├── Bin Tere.mp3
+│   ├── Blue Eyes Full Video Song Yo Yo Honey Singh - Blockbuster Song Of 2013.mp3
+│   ├── Bol Do Na Zara.mp3
+│   ├── Bol Na Halke Halke.mp3
+│   ├── Bolna.mp3
+│   ├── Bombaattu Hudugi HD Video Song _ Kavya Madhavan , Dileep , Lal - Chandranudikkunna Dikhil.mp3
+│   ├── BOYS NOIZE - Alarm (WHO AM I O.S.T.) (Official Audio).mp3
+│   ├── Breathless - Shayne Ward.mp3
+│   ├── Bulleya.mp3
+│   ├── Chaar Kadam - Shreya Ghoshal & Shaan.mp3
+│   ├── Chahun Main Ya Naa - Arijit Singh, Palak Muchhal.mp3
+│   ├── Chaiyya Chaiyya.mp3
+│   ├── Chanchakkam Thenniyum - Johny walker (MusiQin.CoM).mp3
+│   ├── Chandamama Chandrakantha _ 720p _ Chandamama _ Kunchacko Boban _ Sulekha.mp3
+│   ├── Chandana manivathil.mp3
+│   ├── Chandanamanivathil.mp3
+│   ├── Chandanam Manakkunna (From ''Achuvettante Veedu'') - Malayalam Evergreen Melody Songs.mp3
+│   ├── Chandana Thennalai (M) - Sharja To Sharja (MusiQin.CoM).mp3
+│   ├── Chandhana Kuriyumayi.mp3
+│   ├── Chand Sifarish.mp3
+│   ├── Channa Mereya.mp3
+│   ├── Chella Katte Chollu Full HD Video Song _ Kochu Kochu Santhoshangal _ Jayaram, Kalidas, Innocent.mp3
+│   ├── Chembaka Vallikalil  Www123musiqCom.mp3
+│   ├── Chembarathi    WwwRaagMe.mp3
+│   ├── Chempoove Poove - Kaalapani - Hififlac.com.mp3
+│   ├── Chendumallika  Aarya 2.mp3
+│   ├── Cherathe [MaangoMe].mp3
+│   ├── Chhupana Bhi Nahin Aata - Songs.pk - 320Kbps.mp3
+│   ├── Chiri Chiriyo - Chronic Bachelor (Original Motion Picture Soundtrack).mp3
+│   ├── Chirimanimulle.mp3
+│   ├── Chitthirai Nilavu [Maango.Info].mp3
+│   ├── Cholakkilikal Moolipadum _ The Prince _ Prema _ Jagannatha Varma - Deva Hits.mp3
+│   ├── Chola Malamkaattadikkanu _ HD 1080p _ Mohanlal , Indraja - Sradha.mp3
+│   ├── Choolamadichu Karangi Nadakkum HD 1080p _ HD Remastered _ Manju Warrier - Summer in Bathlehem.mp3
+│   ├── Chori Chori Chupke Chupke.mp3
+│   ├── Chundari Penne (From Charlie) - Ultimate Malayalam Love Songs.mp3
+│   ├── Chundathu Chethippoo _ 1080p _ Chronic Bachelor _ Mammootty _ Mukesh _ Rambha _ Bhavana _ Ashokan.mp3
+│   ├── Coolio - Gangsta_s Paradise (feat. L.V.) [Official Music Video].mp3
+│   ├── Despacito - Luis Fonsi feat. Daddy Yankee.mp3
+│   ├── Dheere Dheere Se Meri Zindagi Mein Aana.mp3
+│   ├── Dhimu Dhimu [Maango.me] - Karthik.mp3
+│   ├── Dhoore Mamara Kombil  _ 1080P Remastered _ Varnappakittu (1997) _  KS Chithra _ Mohanlal _ Meena.mp3
+│   ├── Dhwadasiyil HD 1080p _ Biju Menon -  Madhuranombarakattu.mp3
+│   ├── Dil Ibadat.mp3
+│   ├── Dil Kyun Yeh Mera.mp3
+│   ├── Dil Na Diya.mp3
+│   ├── Dirty Heads - Vacation (Official Video).mp3
+│   ├── Dosth - Dosth (Original Motion Picture Soundtrack).mp3
+│   ├── Dus Bahane - K.K. & Shaan.mp3
+│   ├── Dwadashiyil.mp3
+│   ├── DwaniManasaNillayil.MP3
+│   ├── Edo Priya Ragam-Aarya2.mp3
+│   ├── Eee Vazhiyum Ee Marathanalum.mp3
+│   ├── Ee Kaattu (From Adam Joan) - Best of 2017 Malayalam.mp3
+│   ├── Ek Ladki Ko Dekha.mp3
+│   ├── Elam Manjil.mp3
+│   ├── Eminem - Lose Yourself [HD].mp3
+│   ├── EMINEM MODE _ Best Workout Motivation Mix  2019.mp3
+│   ├── Eminem - Not Afraid (Official Video).mp3
+│   ├── Eminem - Till I Collapse [HD].mp3
+│   ├── Eminem - Till I Collapse Remix Nate Dogg, Lil Jon, 2Pac, Ice Cube, Dr. Dre, Eazy E, DMX, Method Man.mp3
+│   ├── Enai Saaithaalae.mp3
+│   ├── Ende Onnum - Gramaphone (Original Motion Picture Soundtrack).mp3
+│   ├── En Kadhal Solla.mp3
+│   ├── En Kanmani Un Kaathali.mp3
+│   ├── Ennai Saaithaalae (reverbed)(lofi)- NC .mp3
+│   ├── Ennamme Onnu - Nammal (MusiQin.CoM).mp3
+│   ├── Ennamo Yeadho (1).mp3
+│   ├── Ennatha Solla.mp3
+│   ├── Enna Vilai Azhake - Kadhalar Dhinam.mp3
+│   ├── En Poove Pon Poove _ 1080p _ Pappayude Swantham Appoos _ Mammootty _ Shobana _ Badusha _ Seena Dadi.mp3
+│   ├── Ente Pranayathin  Chembada.mp3
+│   ├── Ente Thenkaasi Video Song 4K _ Thenkasipattanam _ Suresh Gopi _ Suresh Peters _ M G Sreekumar _ Lal.mp3
+│   ├── Ente Ulludukkum Kotti Full Video Song  _ HD _ Deepasthambham Mahascharyam Song _ REMASTERED AUDIO _.mp3
+│   ├── Enthinee Mizhi.mp3
+│   ├── Enthinennariyilla (From My Boss) (Duet) - Malayalam Movie Romantic Collections.mp3
+│   ├── Enthinu Veroyu Suryodayam{Mazhayethum Mumbe}.mp3
+│   ├── Ethetho Swapnamo (From Avarude Ravukal) - Best of 2017 Malayalam.mp3
+│   ├── Etho Nidrathan (M) - Ayal Kadha Ezhuthukayanu.mp3
+│   ├── Ethu Sundara (From Nadan) (Male Vocals) - Melodious Hits of Ouseppachan.mp3
+│   ├── Evergreen Film Song _ Raakuyil Padi Ravinte Shokam _ Kasthuriman _ Malayalam Film Song..mp3
+│   ├── Ezhazhakumay Poovanikalil Full Video Song  _ HD _  Malayalam Movie Song _ REMASTERED _.mp3
+│   ├── Feel My Love.mp3
+│   ├──  Gangster Rap Mix _  Rap _Hip Hop Music 2018 (2pac,Biggie,50cent,Eminem,Eazy E..)  .mp3
+│   ├── Ghar Se Nikalte Hi.mp3
+│   ├── Gopike - K. J. Yesudas.mp3
+│   ├── Guzarish.mp3
+│   ├── Haan Tu Hain (From Jannat).mp3
+│   ├── Hale Dil - Harshit Saxena.mp3
+│   ├── Halena.mp3
+│   ├── Harichandana Malarile _ 1080p _ Kannezhuthi Pottum Thottu _ Thilakan _ Manju Warrier _ Biju Menon.mp3
+│   ├── hate is my fuel_ a villain playlist.mp3
+│   ├── Haule Haule.mp3
+│   ├── Hemanthamen  MykuttywebCom.mp3
+│   ├── Highway - Oru Thari Kasthuri Malayalam Song _ Suresh Gopi, Bhanupriya.mp3
+│   ├── Hosanna.mp3
+│   ├── Hoshwalon Ko Khabar Kya _ Aamir Khan _ Sonali Bendre _ Sarfarosh Movie _ Jagjit Singh _ 90_s Hits.mp3
+│   ├── Hridayavum hridayavum.mp3
+│   ├── Hrudaya Sakhi.mp3
+│   ├── Iayyayo [Maango.info].mp3
+│   ├── Idhu-Dhaan-MassTamilan.org.mp3
+│   ├── Innale Ente Nenjile - Balettan (Original Motion Picture Soundtrack).mp3
+│   ├── Innale Mayangumbol.mp3
+│   ├── Innum Konjam.mp3
+│   ├── Iragai Pole.mp3
+│   ├── i see humans but no humanity_ a villain playlist.mp3
+│   ├── Isha music - Flute _ Inner Engineering _ Isha yoga music - Isha Meditation _ Sadhguru _ Minimalist.mp3
+│   ├── Ithaloornnu Veena.mp3
+│   ├── Jab Se Tere Naina.mp3
+│   ├── Jab Tak.mp3
+│   ├── Jag Soona Soona Lage.mp3
+│   ├── Jeena Marna Full Video Song _ Do Lafzon Ki Kahani _ Randeep Hooda, Kajal Aggarwal.m4a
+│   ├── Jeene Laga Hoon.mp3
+│   ├── Jeevamshamayi.mp3
+│   ├── Jiya Maine Jiya - Video Song _ Khushi _ Kareena Kapoor & Fardeen Khan _ Alka Yagnik & Udit Narayan.m4a
+│   ├── John Wick 1-3 Theme Song Mix.mp3
+│   ├── John Wick -  Workout Mix (feat. Le Castle Vania, Tyler Bates, Joel J. Richard).mp3
+│   ├── Joonile.mp3
+│   ├── Kaadhal Endral.mp3
+│   ├── Kaarmukilil  WwwSongsareaIn.mp3
+│   ├── Kaathalae Kaathalae (Duet) - SenSongsMp3.Co.mp3
+│   ├── Kaattalakal - 18am Padi (WapMallu.CoM).mp3
+│   ├── Kabhi Jo Baadal Barse.mp3
+│   ├── Kabhi Kabhi Mere Dil Mein(PagalWorld.com) pagalworld.com - pagalworld.com.mp3
+│   ├── Kadalariyilla Karayariyilla _ Kannur _  _ Manoj K Jayan _ Vani Vishwanath.mp3
+│   ├── Kadalkkaattin - Friends (Original Motion Picture Soundtrack).mp3
+│   ├── Kadal Naan Thaan-.mp3
+│   ├── Kadal-Thaandi-Vandhaai-MassTamilan.io.mp3
+│   ├── Kadhalvaithu [Maango.info].mp3
+│   ├── Kadhayile Rajakumaranum - Kalyanaraman (MusiQin.CoM).mp3
+│   ├── Kaitha Poovin Kannikurumbil _ 1080p _ Kannezhuthi Pottum Thottu _ Abbas _ Manju Warrier.mp3
+│   ├── Kal Ho Naa Ho - Sonu Nigam.mp3
+│   ├── Kalyana Thennila... - MassTamilan.com.mp3
+│   ├── Kandu Njaan.mp3
+│   ├── Kangalil Enna [Maango.Info].mp3
+│   ├── Kangal Irandal Song.mp3
+│   ├── Kannallathathelam - Janam.mp3
+│   ├── Kanneer Poovinte  WwwSensongsCom   ® Riya Collections ®.mp3
+│   ├── Kannil Kaashithumba.mp3
+│   ├── Kannil Kannil Kannadi Nokkum _ The Prince _ Mohanlal _ Prema - Deva Hits.mp3
+│   ├── Kannodu Kannoram.mp3
+│   ├── Kanumbol.mp3
+│   ├── Karigalan.mp3
+│   ├── Karimizhi.mp3
+│   ├── Karineela Kannulla Penne.mp3
+│   ├── Karukara karmugil (kummatty).mp3
+│   ├── Kattil Ee Jalakam.mp3
+│   ├── Katturumbinu Kalyanam - Priyam Malayalam Movie Song _ Kunjako Boban _ Deepa Nair _ Jagathy Sreekumar.mp3
+│   ├── Kavalai Vendam - Nee Tholaindhaayo Tamil Video _ Jiiva.m4a
+│   ├── Kavalai Vendam - Un Kadhal Irundhal Podhum Tamil Video _ Jiiva.m4a
+│   ├── Kelkkaathoru Sangeetham HD 1080p _ Indrajith, Gopika _ Romantic Song - Vesham.mp3
+│   ├── Khuda Jaane.mp3
+│   ├── Kilikal Parannatho.mp3
+│   ├── Kilimozhikal Alyayi  WwwMsGalleryMobi  Weeping Boy (2013).mp3
+│   ├── Kilippenne - Dosth (Original Motion Picture Soundtrack).mp3
+│   ├── Konchum Mainakkale on HD 720P.mp3
+│   ├── Koothambalathil.mp3
+│   ├── Kuch Na Kaho.mp3
+│   ├── Kuch To Hua Hai - Shaan, Alka Yagnik.mp3
+│   ├── Kudajadriyil(F).mp3
+│   ├── Kuttanadan Kaayalile _ Kazhcha _ Mammootty _ Manoj K Jayan _ Yash.mp3
+│   ├── Kuttuvaal Kurumbee HD 1080p _ Video Song _ Mohanlal , Nayantara - Natturajavu.mp3
+│   ├── Lag Ja Gale (Bhoomi) Full Song With Lyrics_ Rahat Fateh Ali Khan.m4a
+│   ├── Latcham Calorie.mp3
+│   ├── Lolita [Maango.me] - Karthik, Prashanthini.mp3
+│   ├── Maamazhayile HD 1080p _ Rambha _ M. Jayachandran. - Mayilattam.mp3
+│   ├── Maanathe Velli - Palunku.mp3
+│   ├── Maanmizhi Poovu [M] - Mahasamudram (MusiQin.CoM).mp3
+│   ├── Maayapraave - Dosth (Original Motion Picture Soundtrack).mp3
+│   ├── Madhumaasam - Meghasandesham (MusiQin.CoM).mp3
+│   ├── Madhumasam Viriyanu _ 1080p _ Meghasandesam _ Suresh Gopi _ Rajasree Nair _ Abhirami.mp3
+│   ├── Maheshinte Prathikaaram _ Idukki Song Video, Fahadh Faasil _ Official.mp3
+│   ├── Main Hoon Na - Sonu Nigam, Shreya Ghoshal.mp3
+│   ├── Makaranilaavil - Snehithan.mp3
+│   ├── Malare [MaangoMe].mp3
+│   ├── Malare Mounama.mp3
+│   ├── Malayalam Film Song _ Manikyakallal _ Varnapakittu _ M. G. Sreekumar, Swarnalatha.mp3
+│   ├── Malayalam Film Song _ _Nombara veenae karayaruthae en poomole.... _ _ Malayalam Movie Song.mp3
+│   ├── Malayalam Film Song _ Vaarmukile Vanil Nee _ MAZHA _ K. S. Chitra.mp3
+│   ├── Malayalam Movie song _ തിങ്കളെ പൂ തിങ്കളെ.mp3
+│   ├── Manasa Nilyil.mp3
+│   ├── Manassil Midhunamazha  Duet.mp3
+│   ├── Manickya Chirakulla  123musiqMobi.mp3
+│   ├── Manikkinavin Kothumbuvallam  Www123musiqCom   ® Riya Collections ®.mp3
+│   ├── Manimukile HD 1080p _ Samyuktha Varma , Dileep , Keerthi Suresh _ Kuberan.mp3
+│   ├── Mani Mukile-Swarnalatha.mp3
+│   ├── Manimuttathavani - Dreams (Original Motion Picture Soundtrack).mp3
+│   ├── Manjalayil.mp3
+│   ├── Manju Mazha (Male Version) - Aagathan (Original Motion Picture Soundtrack).mp3
+│   ├── Manju Peyyana HD Video Song _ Kavya Madhvan , Dileep , Lal - Chandranudikkunna Dikhil.mp3
+│   ├── Manju Peyyanu - Chandranudikkunnadhikkil (Original Motion Picture Soundtrack).mp3
+│   ├── Manju Pole - Dosth (Original Motion Picture Soundtrack).mp3
+│   ├── Mannipaaya.mp3
+│   ├── Maragatha-Maalai-MassTamilan.io.mp3
+│   ├── Marakkam Ellam Marakkam__OnmusiqCom.mp3
+│   ├── Marakkam.mp3
+│   ├── Maranamethunna Neram[Southsongs4uCom].mp3
+│   ├── Marannittumenthino.mp3
+│   ├── Margazhiye Mallikaye HD 1080p _ Mammootty, Priya Gill, Sreenivasan - Megham.mp3
+│   ├── Markazhi Poove.mp3
+│   ├── Maula - Ali Azmat.mp3
+│   ├── Maula mere maula.mp3
+│   ├── Maya Davakikku  Chandranudikkunnadikkil.mp3
+│   ├── Maya Devakikku HD 1080p _ Video Song _ Dileep, Kavya Madhavan, Lal - Chandranudikkunna Dikhil.mp3
+│   ├── MAYA ft. Arvind Venugopal _ Malayalam Album _ Ajith Mathew.mp3
+│   ├── Mayamanchalil.mp3
+│   ├── Mayilaanjiye-MassTamilan.org.mp3
+│   ├── Mayilaay Parannu Vaa _ HD 1080p _ Mayilpeelikkavu _ KJ Yesudas, KS Chithra _ Kunchacko Boban, Jomol.mp3
+│   ├── Mayiladum Kunninmell Full Video Song _ HD _ Malayalam Movie Song _ REMASTERED AUDIO _.mp3
+│   ├── Mazhai Vara Pogudhe.mp3
+│   ├── Mazha.mp3
+│   ├── Mazhaneer Thullikal.mp3
+│   ├── Mazha Njan Arinjirunnilla  DrPatient (Sanjeev Nair)2.mp3
+│   ├── Mazha Paadum [Maango.info] - Aravind Venugopal, Aparna Balamurali.mp3
+│   ├── Mazha Thullikal (M).mp3
+│   ├── Mazhavilladum Malayude Mukalil _ Thudarkadha _ Maathu _ Shyama _ Devan - SP Venkitesh Hits.mp3
+│   ├── Mazhaye Thoomazhaye  WwwMalluwireIn.mp3
+│   ├── Mazhayil Nin.mp3
+│   ├── Mazha മഴ Malayalam Album.m4a
+│   ├── Medamasapulari.mp3
+│   ├── Meena Venalil.mp3
+│   ├── Mele Chellode - Vijay Yesudas.mp3
+│   ├── Mele Mele (Duet)  Life Of Josutty  WwwMalludevilIn.mp3
+│   ├── Melevinnin Muttatharo... _ Ezhupunna Tharakan Malayalam Movie Song.mp3
+│   ├── Melle Melle.mp3
+│   ├── Melle Melle Mugapadam.mp3
+│   ├── Melle Nee Mayave [Maango.me].mp3
+│   ├── Melleyen Kannile Kunju Kannadiyil Full Video Song  HD _ Kusruthi Kuruppu Movie Song _ REMASTERED  _.mp3
+│   ├── Memories.mp3
+│   ├── Mere Haath Mein.mp3
+│   ├── Mere Rashke Qamar (Djjohal.Com).mp3
+│   ├── Merkemeke [Maango.info].mp3
+│   ├── Minnalai Pidithu.mp3
+│   ├── Minnale Minnale Thaazhe Varoo  1080p _ Vesham _ Malayalam Movie Song _ Ft.Gopika _ K.S.Chithra Hits.mp3
+│   ├── Minnaram Manathu... _ Superhit Malayalam Movie _ Guru _ Movie Song.mp3
+│   ├── Mitwa.mp3
+│   ├── Mizhiyil [Maango.info] - Shahabaz Aman.mp3
+│   ├── Mozilkalum.mp3
+│   ├── mpvpipe
+│   ├── Mun Andhi [Maango.me] - Karthik, Megha.mp3
+│   ├── Munbe Vaa.mp3
+│   ├── Mundhinam (1).mp3
+│   ├── Muthaaram Muthundu - Mr. Butler (Original Motion Picture Soundtrack).mp3
+│   ├── Muthe_Ninne_kandittinnen_AMRUTHAM.mp3
+│   ├── Muthuchippi.mp3
+│   ├── Muthu Mazha - Vineeth Sreenivasan & Jyotsna.mp3
+│   ├── Muthu Muthu Kannanai - Prasanth varma Bhajans directed by Raghunath N B.mp3
+│   ├── Muttahtethum - Chandrolsavam (Original Motion Picture Soundtrack).mp3
+│   ├── Muttathe Mullecholl (M) -  Maayavi.mp3
+│   ├── My Love Is Gone  Aarya 2.mp3
+│   ├── Naane Varugiraen.mp3
+│   ├── Naan Un - Arijit Singh & Chinmayi.mp3
+│   ├── Nangaai.mp3
+│   ├── Na Tum Jaano Na Hum - Kaho Naa Pyaar Hai.m4a
+│   ├── Nee Kobapattal - Sagar.mp3
+│   ├── Nee Korinaal - www.123musiq.com -  ® Riya collections ®.mp3
+│   ├── Neelaambalin(MalluwapIn).mp3
+│   ├── Neela Kannulla - Kochavva Paulo Ayyappa Coelho (WapMallu.CoM).mp3
+│   ├── Neela Neela Mizhikalo [Mp3song - Vijay Yesudas.mp3
+│   ├── Neelanjana poovin- Bombay Jayasree, S P Venkitesh, Kaithapram.mp3
+│   ├── Neelavana.mp3
+│   ├── Nee manimukilai.MP3
+│   ├── Nee-Mukilo.mp3
+│   ├── Neeraduvan_Nilayil_Nakhakshathangal_1986_Mp3_28.mp3
+│   ├── Neermizhipeeliyil.mp3
+│   ├── Neermizhi Peeliyil Neermani.mp3
+│   ├── Nee Vandhu Ponadhu.mp3
+│   ├── Neeyaam Thanalinu.mp3
+│   ├── Neeyoru.mp3
+│   ├── Neeyum Naanum - Anirudh Ravichander & Neeti Mohan.mp3
+│   ├── Nenje Nenje.mp3
+│   ├── Nenjodu Cherthu.mp3
+│   ├── Nenjudukkinte  Karumaadikkuttan (2001) Kj Yesudas.mp3
+│   ├── Nenjukkul Peidhidum.mp3
+│   ├── Nenjukulle.mp3
+│   ├── New York.mp3
+│   ├── Nilamalare - Diamond Necklace (Original Motion Picture Soundtrack).mp3
+│   ├── Nilavinte.mp3
+│   ├── Ninakkende - Gramaphone (Original Motion Picture Soundtrack).mp3
+│   ├── Ninte Kannil  Virunnu Vannu  Video Song   HD _ Deepasthambham Mahascharyam Song _ REMASTERED AUDIO _.mp3
+│   ├── Nin Viral Thumbil  Www123musiqCom.mp3
+│   ├── Nira-MassTamilan.io.mp3
+│   ├── Niranazhiponnil Video Song _ Valyettan 4K _ Mammootty _ Shobana _ Mohan Sitara _ M G.Sreekumar.mp3
+│   ├── Njan Kanavil (Male Version) - Aagathan (Original Motion Picture Soundtrack).mp3
+│   ├── Nusrat Fateh Ali Khan - Tana Dery Na.mp3
+│   ├── Nuvvostanante Nenoddantana Songs _ Niluvaddam Video Song _ Siddharth, Trisha _ Sri Balaji Video.mp3
+│   ├── Oh Ringa Ringa.mp3
+│   ├── Oh Thirayukayano  Pkmusiqcom.mp3
+│   ├── Omana Penne.mp3
+│   ├── O Mere Khuda - Atif Aslam, Garima Jhingoon.mp3
+│   ├── Onnaanaam Kunninmel (D) - Mayilpeelikkavu (MusiQin.CoM).mp3
+│   ├── Onnamkili Ponnankili - Kilichundan Mambazham.mp3
+│   ├── Onnam Ragam Padi.mp3
+│   ├── Onnanam Kunninmel (Duet) Full Song _ Malayalam Movie _Mayilppelikkav_ _ Kunchakko Boban, Joemol.mp3
+│   ├── Onnanam Kunnin Mele - Kilichundan Mampazham (MusiQin.CoM).mp3
+│   ├── Oormayil Oru.mp3
+│   ├── O Re Piya - DJMaza.Info - Atif Aslam.mp3
+│   ├── O Re Piya Slowed And Reverb   Rahat Fateh Ali Khan   Aaja Nachle   Lofi Bollywood   Indian Lofi Song.m4a
+│   ├── Ormakal_Oodikkalikkuvaan.mp3
+│   ├── Ormakal  Www123musiqCom.mp3
+│   ├── Oro Nokkil [Maango.me].mp3
+│   ├── Oru Chempaneer.mp3
+│   ├── Oru Chik Chik Chik Chik Chirakil HD 1080p _ Remastered HD _ Kunchacko Boban, Shalini - Niram.mp3
+│   ├── Oru-Kinnara-Ganam-(RaagSong.Com).mp3
+│   ├── Oru Maalai.mp3
+│   ├── Oru Mazhapakshi Paadunnu HD 1080p _ Kuberan _ Dileep _ Samyuktha Varma _ Uma Shankari.mp3
+│   ├── Oru Mezhuthiriyude ShabunetMobi  Vishudhan.mp3
+│   ├── Oru Naal Ini Naam  Pkmusiqcom.mp3
+│   ├── Oru Nalukkul [Maango.info].mp3
+│   ├── Oru narpushpamaai (M) - Meghamalhar.mp3
+│   ├── Oru Paadhi Kadhavu.mp3
+│   ├── Oru Parvayil.mp3
+│   ├── Oru Pattin Kattil Video Song _ Mammootty, Anjala Zaveri _ Gireesh Puthenchery _ Vidyasagar _ Dubai.mp3
+│   ├── Oru Rathri Koodi.mp3
+│   ├── Oru Vaanavillin Pakkathilae.mp3
+│   ├── Oru_Venal_Puzhayil_____Pranayakalam__Malayalam_Movie_Song.mp3
+│   ├── O-Sanam-Lucky-Ali.mp3
+│   ├── Othayilae.mp3
+│   ├── Othiri Othiri HD 1080p _ Vidyasagar _ Gireesh Puthenchery _ Divya Unni - Pranayavarnangal.mp3
+│   ├── Ottakambi Naadam - Thenum Vayambum  K. J. YesudasRaveendranBichu Thirumala.mp3
+│   ├── Oyaayiye-Yaayiye.mp3
+│   ├── Paartha Mudhal.mp3
+│   ├── Pachchai Nirame song.mp3
+│   ├── Padam Vanamali.mp3
+│   ├── Paikurumbiye Meykkum HD 1080p _ Vidyasagar - Gireesh Puthenchery _ Dileep, Navya Nair _ Gramaphone.mp3
+│   ├── Pala-Palakura.mp3
+│   ├── Palavattam    WwwRaagMe.mp3
+│   ├── Pallitherundo HD1080p _ Jayaram, Sithara _ Johnson - Mazhavil Kavadi.mp3
+│   ├── Pamba Ganapathy  Niramolumpeeli  Malayalam Bhajan.mp3
+│   ├── Panchavarnnakkulire - Sooryaputhran (MusiQin.CoM).mp3
+│   ├── Parayumo (Male) _ Orissa.mp3
+│   ├── Parayuvan idadyamayi(Ishq) .mp3
+│   ├── Pathinalam Ravinte Full Video Song _ HD _  - Sharjah To Sharjah Movie Song _ REMASTERED AUDIO _.mp3
+│   ├── Pathinalam Ravinte (M) - Sharja To Sharja (MusiQin.CoM).mp3
+│   ├── Pee Loon.mp3
+│   ├── Pehli Nazar Mein - Atif Aslam.mp3
+│   ├── Penkidave-Umbai.mp3
+│   ├── Perilla Rajyathe.mp3
+│   ├── Phir Kabhi.mp3
+│   ├── Phir Mohabbat - Mohd Irfan, Arijit & Saim Bhat.mp3
+│   ├── Phir Mohabbat.mp3
+│   ├── Phir Se Ud Chala.mp3
+│   ├── Pichavecha  Puthiya Mugham.mp3
+│   ├── Pinnilaavin Poo Vidarnnu _ Veendum Chila Veettukaryangal _ 4K Malayalam Song _ Jayaram _ Samyuktha.mp3
+│   ├── Piya O Re Piya.mp3
+│   ├── Pogadhe [Maango.info].mp3
+│   ├── Ponmagal Vandaal.mp3
+│   ├── Ponnolathumbil... _ Evergreen Malayalam Romantic Song _ Mazhavillu _ Video Song.mp3
+│   ├── Ponnum Poovum Vaari Coodam Video Song _ Ishtamanu Nooru Vattam.mp3
+│   ├── Ponnushassennum - Meghamalhar.mp3
+│   ├── Pookalam Vannu - Godfather (Original Motion Picture Soundtrack).mp3
+│   ├── Pookal Pookum.mp3
+│   ├── Pookkalae Sattru Oyivedungal (1).mp3
+│   ├── Pookkalam Vannu Pookkalam - Godfather (MusiQin.CoM).mp3
+│   ├── Poomakal Vazhunna Kovilil.mp3
+│   ├── Poo Mariyil - Johny walker (MusiQin.CoM).mp3
+│   ├── Poomuthole.mp3
+│   ├── Poonchleekiliye.mp3
+│   ├── Poovanam.mp3
+│   ├── Poovukkul.mp3
+│   ├── Pottu Kuthedi _ 1080p _ Raavanaprabhu _ Vasundhara Das _ Jagadish _ Vindhya.mp3
+│   ├── Pottukuthedi - Ravanaprabhu (Original Motion Picture Soundtrack).mp3
+│   ├── Premamadhu Thedum HD 1080p _ Kunchacko Boban, Preetha Vijayakumar - Snehithan.mp3
+│   ├── Pulari Manjin [MaangoMe].mp3
+│   ├── Puzha Padum... _ Melvilasam Sariyannu Malayalam Movie Song.mp3
+│   ├── Raaga Chandranariyathe.mp3
+│   ├── Raakaachi-Rangamma-MassTamilan.org.mp3
+│   ├── Raapaadi - Aakashadoothu (Original Motion Picture Soundtrack).mp3
+│   ├── Raavin Nilaakayal... _ Evergreen Malayalam Romantic Song _ Mazhavillu _ Video Song.mp3
+│   ├── Raavin Nilakkayal (M).mp3
+│   ├── Rainbow-Thiralil.mp3
+│   ├── Raja Ko Rani Se.mp3
+│   ├── Rajamati.mp3
+│   ├── Rathrimazha _ Making Video Song HD _ Film Porkkalam _ Vidhu Prathap _ Mridula Varier.m4a
+│   ├── Rathri Mulla Than – Najeem Arshad, Radhika NarayananMp3.mp3
+│   ├── Receiv. files
+│   │   ├── Aarodum Mindathe _ Lyrical Video Song _ Johnson _ Gireesh Puthenchery _ KJ Yesudas.m4a
+│   │   ├── A Guided Meditation with Mooji & Russell Brand.m4a
+│   │   ├── Alef - Sol.m4a
+│   │   ├── Amma-Amma.mp3
+│   │   ├── Azhakalila Manja Charadilu Poothali _ Ashwaroodan (2006) _ Everlasting Melody.m4a
+│   │   ├── Bahramji and Mashti - About God.m4a
+│   │   ├── Bahramji - Untitled _ Sofar Ibiza.m4a
+│   │   ├── _BECOMING A MAN_ (a guide for a better future for lost young men) - Jordan Peterson.m4a
+│   │   ├── Chandrashekhara Ashtakam _ Damaru _ Adiyogi Chants _ Sounds of Isha.m4a
+│   │   ├── Damru Dhun Best Temple Bell With Shankh naad _   Sound of Damru... Lord Shiva_s Favourite.m4a
+│   │   ├── Dr Dispenza Breaking the Habit of being Yourself (Week 1) Meditation with Binaural Beats embedded.m4a
+│   │   ├── Dr Dispenza Breaking the Habit of being Yourself (Week 2) Meditation with Binaural Beats embedded.m4a
+│   │   ├── Eeswaran _ Mangalyam Video Song _ Silambarasan TR _ Nidhhi Agerwal _ Susienthiran _ Thaman S000.m4a
+│   │   ├── FEEL LIKE BLUES. UNPLUGGED SONG BY DR  KJ YESUDAS _ PARANJATHANU KUTAM.m4a
+│   │   ├── Gauranga _ Damaru _ Adiyogi Chants _ Sounds of Isha.m4a
+│   │   ├── Grow an EPIC Beard Fast! Naturally - Subliminal Binaural Beats Hypnosis Biokinesis.m4a
+│   │   ├── Gypsy _ Desaandhiri _ Video Song _ Jiiva _ Santhosh Narayanan _ Raju Murugan _ Natasha Singh.m4a
+│   │   ├── Healing Ragas _ Rag Hamsadwani - Sitar Flute and Violin _ Classical Fusion Music.m4a
+│   │   ├── Healing Ragas - Sitar Tabla - Brindavan Sarang - Classical Instrumental Fusion B.Sivaramakrishna Rao.m4a
+│   │   ├── Iniyoru Janmamundenkil  Malayalam Full Video Song _ HD _ Kannaki Movie Song _ REMASTERD  _.m4a
+│   │   ├── Isha music - Flute _ Inner Engineering _ Isha yoga music - Isha Meditation _ Sadhguru _ Minimalist.m4a
+│   │   ├── Kai Kottu Penne HD 1080p _ Video Song _ Kalabhavan Mani, Nandini - Karumadikkuttan.m4a
+│   │   ├── Kalakalappu 2 _ Karakudi Ilavarasi _ Hiphop Tamizha _ Jiiva, Jai,Nikki Galrani & Catherine Tresa.m4a
+│   │   ├── Kannare Kannare _ 720p _ Rakshasarajavu _ Mohan Sithara _ S Ramesan Nair _ MG Sreekumar _ KS Chithra.m4a
+│   │   ├── Kapil Gupta_ Conquering the Mind.m4a
+│   │   ├── Learn Isha Kriya Online.mp3
+│   │   ├── Madhyamavathi _ Instrumental _ Bansuri.m4a
+│   │   ├── Malargale Malargale Video Song _ Love Birds _  Prabhu Deva, Nagma _ A. R. Rahman _ Romantic Hits.m4a
+│   │   ├── Malargale _ Thankathinkal _ Agam _ Mementos.m4a
+│   │   ├── Malayalam Song - Thanka Thinkal - Indraprastham - Starring Mammootty, Simran, Prakash Raj, Vikram.m4a
+│   │   ├── Meditation For Beginners! _ Russell Brand.m4a
+│   │   ├── Michael Jackson - Beat It.mp3
+│   │   ├── Midnight Healing Music _ Sitar Instrumental _ Classical Music _ Raga Darbari kanada.m4a
+│   │   ├── Mridanga Saileswari Devotional Song -Muzhakkunnile Sree Rajarajeswari.m4a
+│   │   ├── Mugamoodi Vaayamoodi Summa Iru Da Video Song Bluray HD 1080p.m4a
+│   │   ├── Neelambari-TM Krishna.m4a
+│   │   ├── Nee Vandhu Ponadhu.mp3
+│   │   ├── Nenje Nenje.mp3
+│   │   ├── Oraayiram kinaakkalal ...(HD) - Ramji Rao Speaking  Movie Song _ Mukesh _ Innocent _ Saikumar.m4a
+│   │   ├── O Re Piya Slowed And Reverb   Rahat Fateh Ali Khan   Aaja Nachle   Lofi Bollywood   Indian Lofi Song.m4a
+│   │   ├── Raag Yaman Best In Flute _ Healing Raga, Sleep and Beyond (Mandala).m4a
+│   │   ├── Rangapura Vihara.m4a
+│   │   ├── Rathingal Poothali - Ee Puzhayum Kadannu Malayalam Movie Song _ Dileep _ Manju Warrier _ Mohini.m4a
+│   │   ├── Rathinkal Poothali _ Devi Aathmaragam _ Johnson Master Medley _ Agam _ Mementos.m4a
+│   │   ├── Sadhguru Chanting OM 108 times (A very powerful and peaceful chanting for Inner Engineering).m4a
+│   │   ├── Samaja Vara Gamana _ Bombay Jayashri _ Carnatic Fusion.m4a
+│   │   ├── Shambhavi Mudra Sadhguru Reveals the Secret Practice000.mp3
+│   │   ├── Shiva Stotram _ Shiva _ Sounds of Isha _ In the Lap of the Master.m4a
+│   │   ├── Silayay Piraviyundengil.m4a
+│   │   ├── Sounds of Isha - Amla _ Yoga Padhi.m4a
+│   │   ├── Tera Mera Rishta (Lo-fi 2307 flip) Slowed & Lo-fi Mix _ Use Earphones _ Bollywood Lofi.m4a
+│   │   ├── Veenamrutham Instrumental Album - Veena Songs - Relaxing Music.m4a
+│   │   ├── Vikram Songs _ Moongil Kaadugale Video Song 4K _ Samurai Tamil Movie _ Harris Jayaraj.m4a
+│   │   ├── VIP-Title-Song.mp3
+│   │   ├── WATCH THIS EVERYDAY AND CHANGE YOUR LIFE - Denzel Washington Motivational Speech 2021.m4a
+│   │   ├── What-a-Karavaad.mp3
+│   │   ├── Yaan - Aathangara Orathil Video _ Jiiva _ Harris Jayaraj _ Super Hit Tamil Song.m4a
+│   │   ├── Yaan - Latcham Calorie Video _ Harris Jayaraj _ Jiiva.m4a
+│   │   ├── Yugan Yugan Hum Yogi - Kabir song.m4a
+│   │   └── മനസ്സേ ഒന്നടങ്ങു... _ ദാസേട്ടൻ ശരിക്കും കരയിപ്പിച്ചു _ നിങ്ങൾ കേട്ടു നോക്കൂ.m4a
+│   ├── Rocky Balboa - Theme Song (HD).mp3
+│   ├── Rojapoo Kavilathu Video Song _ Ouseppachan _ Mamta Kulkarni, Kunchacko Boban - Chandamama.mp3
+│   ├── Saami [Maango.info].mp3
+│   ├── Saans.mp3
+│   ├── Saath Saath-Tum Ko Dekha.mp3
+│   ├── Sab Tera.mp3
+│   ├── Sahaana Saaral.mp3
+│   ├── Sahana.mp3
+│   ├── Saiyaara.mp3
+│   ├── Sajalamai.mp3
+│   ├── Sakiyae - Bombay Jayashri & Krish.mp3
+│   ├── Sang Hoon Tere.mp3
+│   ├── Scavengers Of The Deep (Blue Planet 2 Soundtrack).mp3
+│   ├── Shakalakka Baby.mp3
+│   ├── Shalabham-M.G.Sreekumar,k.S.Chitra.mp3
+│   ├── Shilayil Ninnum (D) - Chronic Bachelor (MusiQin.CoM).mp3
+│   ├── Shilayil Ninnum (F) - Chronic Bachelor (MusiQin.CoM).mp3
+│   ├── Shreya Ghoshal Malayalam-KuttyNet.In - Shreya Ghoshal-KuttyNet.In.mp3
+│   ├── Shyaamayaam Raadhike _ 1080p _ The Prince _  _ Mohanlal _ Prema.mp3
+│   ├── Silayil Ninnum - Chronic Bachelor (Original Motion Picture Soundtrack).mp3
+│   ├── Simple Man - Lynyrd Skynyrd - Lyrics HD.m4a
+│   ├── Siragugal [Maango.info].mp3
+│   ├── Sita Kalyanam - Solo.mp3
+│   ├── Snehathin Poonchola HD 1080p (4_3) _ Mammootty, Master Badusha -   Pappayude Swantham Appoos.mp3
+│   ├── Snehithane Snehithane 2000 audio song 720P.mp3
+│   ├── Songs that make you feel like a villain.mp3
+│   ├── Songs that make you feel powerful ⚡.mp3
+│   ├── Sopanasangeetham instrumental.mp3
+│   ├── Sounds Of Isha -  Brahmananda swaroopa _ Chant _ Vairagya.mp3
+│   ├── Sree Raagamo.mp3
+│   ├── Sri Rama Padhama Raga Amrithavarshini-(Mr-Jatt.com).mp3
+│   ├── Subhanallah.mp3
+│   ├── Sundariye Sundariye - Oru Maravathoor Kanavu (MusiQin.CoM).mp3
+│   ├── Sunn Raha Hai - Ankit Tiwari.mp3
+│   ├── Sunn Raha Hai.mp3
+│   ├── Suno Na Sangemarmar (1).mp3
+│   ├── Suraj Hua Maddham.mp3
+│   ├── Survivor - Eye Of The Tiger (Official HD Video).mp3
+│   ├── Suttum Vizhi.mp3
+│   ├── Swapnakkoodu - Karuppinazhaku Song.mp3
+│   ├── Swayamvarachandrike - Chronic Bachelor (Original Motion Picture Soundtrack).mp3
+│   ├── Taal Se Taal Mila - Udit Narayan.mp3
+│   ├── Tane Poovitamoham-Sa.mp3
+│   ├── temp
+│   ├── Tera Deedar Hua - Rahat Fateh Ali Khan.mp3
+│   ├── Tera Mera Rishta - Mustafa Zahid.mp3
+│   ├── Tere Liye - Atif Aslam, Shreya Ghoshal.mp3
+│   ├── Tere Naina - Shankar Mahadevan, Shreya Ghoshal.mp3
+│   ├── Teri Yaad - Adnan Sami.mp3
+│   ├── Thaakkuthe [Maango.info].mp3
+│   ├── Thaazhvaaram Manpoove _ Jackpot _ Movie Song _ K. J. Yesudas _ K.S.Chithra _ Mammootty _ Aishwarya _.mp3
+│   ├── Thaimavin Thanalil Full Video Song  _ HD _ Oru Yathramozhi  Movie Song _ REMASTERED  AUDIO _.mp3
+│   ├── Thakilu Pukilu.._ 1080p _ Raavanaprabhu _ Mohanlal _ Jagathi _ Jagadish _ Sukumari _ Manju Pilla.mp3
+│   ├── Thakilu Pukilu - Ravanaprabhu (Original Motion Picture Soundtrack).mp3
+│   ├── Thankakkinaapponkal - Friends (Original Motion Picture Soundtrack).mp3
+│   ├── Thanka Thinkal HD 720p _ Simran , Akshay Anand - Indraprastham.mp3
+│   ├── Thathamma Pennu (320kbps) - Dhosth (MusiQin.CoM).mp3
+│   ├── Thathammapperu Thaazhampoo _ 1080p _ Dosth _ Kunchacko Boban _ Kavya Madhavan.mp3
+│   ├── The badass anti hero playlist.mp3
+│   ├── Thee Illai.mp3
+│   ├── Theerame.mp3
+│   ├── Thekku Thekku Thekkeppaadam - Ezhupunna Tharakan (Original Motion Picture Soundtrack).mp3
+│   ├── The Life Of Ram.mp3
+│   ├── THE PLAN - Travis Scott.mp3
+│   ├── Therirangum Mukhile - Mazhathullikkilukkam.mp3
+│   ├── Thoda Sa Pyar.mp3
+│   ├── Thodu Vaanam.mp3
+│   ├── Thoomanju - 18am Padi (WapMallu.CoM).mp3
+│   ├── Thotte Thotte - Diamond Necklace (Original Motion Picture Soundtrack).mp3
+│   ├── Thulasikathir Nulliyeduthu Kannanoru Malakkayi...! Thulasikathir. (Prajeesh).mp3
+│   ├── Thuli Thuli Mazhaiyaai.mp3
+│   ├── Thumbi Kalyanathinu.mp3
+│   ├── Toh Phir Aao - (Mp3Song.fm).mp3
+│   ├── Tose Naina Lage Piya   Anwar Full Video     YouTube.mp3
+│   ├── Track1.mp3
+│   ├── Tu Chahiye - Atif Aslam.mp3
+│   ├── Tu Hai.mp3
+│   ├── Tu Hi Haqeeqat - Tum Mile 320Kbps.mp3
+│   ├── Tu Hi Mera.mp3
+│   ├── Tu Hi Meri Shab Hai - K.K..mp3
+│   ├── Tu Jaane Na.mp3
+│   ├── Tujhe Dekha To.mp3
+│   ├── Tujh Mein Rab Dikhta Hai.mp3
+│   ├── Tu Jo Mila - KK.mp3
+│   ├── Tumhain Dillagi Bhool Jani Padegi - Nusrat Fateh Ali Khan.mp3
+│   ├── Tumhe Apna Banane Ka FULL AUDIO Song _ Hate Story 3 _ Amaal Mallik ft. Armaan Malik & Neeti Mohan.mp3
+│   ├── Tumhein Apna Banane Ki Kasam Sadak - Lyrical Video _ Sanjay Dutt, Pooja Bhatt.mp3
+│   ├── Tumhi Dekho Naa Full Video - KANK_Shahrukh Khan, Rani Mukherjee_Sonu Nigam, Alka Yagnik.mp3
+│   ├── Tumhi Dekho Na.mp3
+│   ├── Tum Hi Ho - Arijit Singh.mp3
+│   ├── Tum Jo Aaye Zindagi Mein.mp3
+│   ├── Tum Mile [Love Reprise].mp3
+│   ├── Tumse Milne Ki Tamanna Hai.mp3
+│   ├── Unakkenna Venum Sollu.mp3
+│   ├── Unakkul-Naane.mp3
+│   ├── Usure-MassTamilan.org.mp3
+│   ├── Uyirin Nadhiye [Maango.info] - Rex Vijayan, Neha S Nair.mp3
+│   ├── Uyirin Uyirae.mp3
+│   ├── Vaanaville Minnalkkodiye _ HD 1080p _ Vakkaalathu Narayanankutti _ Jayaram, Manya, Mukesh.mp3
+│   ├── Vaan Engum Nee Minna.mp3
+│   ├── Vaarayo Vaarayo.mp3
+│   ├── Vaarthingal Thellalle _ Dreams _ Suresh Gopi _ Meena _ Jagadish _ Janardhanan - Vidyasagar Hits.mp3
+│   ├── Vaathil Pazhuthiloodenmunnil - Idanazhiyil Oru Kaalocha  K. J. YesudasV. DakshinamoorthyO. N. V. Kurup.mp3
+│   ├── Vakappoomaram - Umbai.mp3
+│   ├── Valayapatti Thavile.mp3
+│   ├── Vannathi Puzhayude Video Song  4K Remastered _ Kaliyattam _ Kaithapram Damodaran Namboothiri..mp3
+│   ├── Veena Paadum _ Vardhakya Puranam _ Jagathi Sreekumar _ Narendraprasad _Janardhanan _ Kanaka _ Oduvil.mp3
+│   ├── Veesiya Visiri-Masstamilan.In.mp3
+│   ├── Vellaaram Kunninmele _ Revathikkoru Pavakkutty _ Bharath Gopi & Radha.mp3
+│   ├── Vellichillum Vithari HD 1080p _ Video Song _ Master Raghu, Devi - Ina.mp3
+│   ├── Vellinilaa.mp3
+│   ├── Velmuruka Harohara _ Naran _ Video Song _ Mohanlal _ M.G.Sreekumar _ Kaithapram _ Deepak Dev _ Joshy.mp3
+│   ├── Venanulm Varshavum.mp3
+│   ├── Venmegam [Maango.info].mp3
+│   ├── Vennilave - Sagar Alias Jacky Reloaded (Original Motion Picture Soundtrack).mp3
+│   ├── Venpaniye.mp3
+│   ├── Veshangal - Vesham.mp3
+│   ├── Vilakku Vakkum HD 1080p _ _ Dileep, Priya Gill _ Priyadarshan _ Megham.mp3
+│   ├── Vinmeen Video Song _ Ashok Selvan, Janani Iyer _ Nivas K Prasanna.mp3
+│   ├── Vinnaithaandi Varuvaayaa.mp3
+│   ├── Vinnile Poykayil Full Video Song  HD Krishnagudiyil Oru Pranayakalathu Movie Song _ REMASTERED AUDIO.mp3
+│   ├── Vismayathumbathu _ Mizhikalkkinnu  _ Vijay Yesudas,Sujatha.mp3
+│   ├── Vizhi-Moodi-Yosithaal.mp3
+│   ├── Vyshaga Sandye.mp3
+│   ├── Whiskey Blues _ Best of Slow Blues Rock _ Slow Rock & Ballads Relaxing _ Sensual Music.mp3
+│   ├── Woh Lamhe Woh Baatein - Atif Aslam.mp3
+│   ├── Ya Ali - Zubeen.mp3
+│   ├── Yaaro (Love).mp3
+│   ├── Yaelae Yealae Dhosthu Da.mp3
+│   ├── Yedho Seigirai [Maango.info].mp3
+│   ├── Yelle Lama [Maango.me] - Karthik, Vijay Prakash, Shalini Singh, Shruti Haasan.mp3
+│   ├── Yennai Arindhaal.mp3
+│   ├── Yenthinu Veroru Sooryodayam.mp3
+│   ├── Zara Sa - K.K..mp3
+│   ├── ആറ്റിറമ്പിലെ... BY ABHIJITH KOLLAM_RAJESH ROSHAN_MURALI APPADATH.mp3
+│   ├── ഇന്ദ്രനീലം ചൂടി  _ Indraneelam Choody _ Dileep Malayalam Film songs _ Malayalam Film Songs.mp3
+│   ├── പഞ്ചവർണ കുളിരെ പാലാഴി കടവിൽ _ Malayalam Evergreen Song  Panja Varna Kulire _ Jayaram Divya Unni Hits.mp3
+│   └── മിഞ്ചി _ Minji Malayalam Video song HD _ 2017 _ Varun dhara _ ft. Badri & Parvathi _.mp3
+├── Isha 1
+│   ├── Parvati Vallabha Ashtakam - Sounds of Isha (FLAC)(1).flac
+│   ├── Parvati Vallabha Ashtakam - Sounds of Isha (FLAC)(2).flac
+│   ├── Parvati Vallabha Ashtakam - Sounds of Isha (FLAC)(3).flac
+│   ├── Parvati Vallabha Ashtakam - Sounds of Isha (FLAC)(4).flac
+│   ├── Parvati Vallabha Ashtakam - Sounds of Isha (FLAC)(5).flac
+│   ├── Parvati Vallabha Ashtakam - Sounds of Isha (FLAC)(6).flac
+│   └── Parvati Vallabha Ashtakam - Sounds of Isha (FLAC).flac
+├── Isha 2
+│   ├── Shambho - Sounds of Isha (FLAC)(1).flac
+│   ├── Shambho - Sounds of Isha (FLAC)(2).flac
+│   ├── Shambho - Sounds of Isha (FLAC)(3).flac
+│   ├── Shambho - Sounds of Isha (FLAC)(4).flac
+│   └── Shambho - Sounds of Isha (FLAC).flac
+├── Isha 3
+│   ├── Ho Sadho (A Song by Kabir) - Sounds of Isha (FLAC)(1).flac
+│   ├── Ho Sadho (A Song by Kabir) - Sounds of Isha (FLAC)(2).flac
+│   ├── Ho Sadho (A Song by Kabir) - Sounds of Isha (FLAC)(3).flac
+│   ├── Ho Sadho (A Song by Kabir) - Sounds of Isha (FLAC)(4).flac
+│   └── Ho Sadho (A Song by Kabir) - Sounds of Isha (FLAC).flac
+├── Israyelin Nadhanai Vaazhum.wav
+├── Ithramel Manamulla.wav
+├── Ivan-Yaaro.mp3
+├── Jab Deep Jale.flac
+├── Jagjit Singh & Jatin Lalit - Hoshwalon Ko Khabar Kya.flac
+├── Jingunamani - K.G.Ranjith  SunidhiChauhan (FLAC).flac
+├── June Ponal - HJ fans Kerala.wav
+├── Just The Way You Are.flac
+├── Kaadhalin-Deepam-Ondru.mp3
+├── Kaathil Thenmazhayaay.wav
+├── Kacheri Aarambam CD 1 TRACK 3 (FLAC).flac
+├── Kadaikutty Singam - Sandakkaari Lyric _ Karthi, Sayyeshaa _ D. Imman.m4a
+├── Kadhalikum Pennin.flac
+├── Kaithola Paya Virich _ Jithesh Kakkidippuram _ Kaithola Nadanpattukal _ കൈതോല _ Malabar Cafe  2020.mp3
+├── Kaithola _ കൈതോല _ New Malayalam Folk Song Audio Jukebox _ Jithesh Kakkidippuram Hit Nadanppattu.mp3
+├── Kakkai Chiraginile - Suchitra (FLAC).flac
+├── Kalasala Kalasala (From Osthe).flac
+├── Kalla_Kalavaani_From__Chekka_Chivantha.flac
+├── Kambathu Ponnu (From _Sandakozhi 2_) - Yuvanshankar Raja.flac
+├── Kanden Kanden.flac
+├── Kan Irandil (From Uthama Puthiran).flac
+├── Kanneer_Poovinte_From_''Kireedam''.flac
+├── Kanne Kanne - Leon James.flac
+├── Kannin _ Mulla _ Gayathri _ Vidyasagar _ Vayalar Sarathchandra Varma.mp3
+├── Kannodu-Melle-KS-Harisankar-Rajalakshmy.mp3
+├── Karthik, Sumangali - Un Paarvaiyil.flac
+├── Karu Karu.wav
+├── Kathri Gopinath
+│   ├── 1. Endaro Mahanu.flac
+│   ├── 2. Innudaya Barade.flac
+│   ├── 3. Brochevarevarura.flac
+│   ├── 4. Karuninchutaku.flac
+│   ├── 5. Brova Bharama.flac
+│   ├── 6. Sara Sara Samaraika.flac
+│   └── 7. Theeratha Vilayattu.flac
+├── Kattipudi-Kattipudida.mp3
+├── Kavitha
+│   ├── 1. Aalila.flac
+│   ├── 2. Bhashayum Aatmahathiyude Thiyathiyum.flac
+│   ├── 3. Greeshmavum Kaneerum.flac
+│   ├── 4. Jayilmuttathe Pookal.flac
+│   ├── 5. Mazha.flac
+│   ├── 6. Venalmazha (Female Vocals).flac
+│   └── 7. Venalmazha.flac
+├── Kelamal Kaiyile - Sriram Parthasarathy.flac
+├── Kinavil-Ovamusic.com_.mp3
+├── K. J. Yesudas - Chirapuraathana.flac
+├── K. J. Yesudas - Palnilavinum.flac
+├── KK - Beetein Lamhein (Slowed to perfection + Reverbed).m4a
+├── Kozhi-Veda-Kozhi.mp3
+├── Kummatti-NaadanPattu-HIFI
+│   ├── 01. Atthinthom Thinthaaro.flac
+│   ├── 02. Chembakappoo Meniyaanu.flac
+│   ├── 03. Inthakatthe Vayalile.flac
+│   ├── 04. Ketto Snehithare.flac
+│   ├── 05. Manne Nambi Elela.flac
+│   ├── 06. Meleppaadam Koitthinu.flac
+│   ├── 07. Mundakan Paadatthe.flac
+│   ├── 08. Naayaadaan Ponoru.flac
+│   ├── 09. Paasam Pathinjeda.flac
+│   ├── 10. Polika Polike Onnaai.flac
+│   └── 11. Thekku Theruvinile.flac
+├── Lose Yourself (From 8 Mile Soundtrack) - Eminem (FLAC).flac
+├── Lucky Ali- HIFI
+│   ├── 01. Teri Yaadein.flac
+│   ├── 02. Mil Jaan Se Kabhi.flac
+│   ├── 03. Dekha Hai Aise Bhi.flac
+│   ├── 04. Dil Aise Na Samajhna.flac
+│   ├── 05. Nahi Rakhta Dil Mein.flac
+│   ├── 06. Tum Ho Wohi.flac
+│   ├── 07. Jheel Pe Jaise.flac
+│   ├── 08. Mausam.flac
+│   ├── 09. Baadalon Ki Gehraaee.flac
+│   └── 10. Suntey Hi Rehtey Hain.flac
+├── Maalai Mangum Neram 8D _ Rowthiram _ Jiiva _ Shriya saran _ Prakash Nikki _ 8D BeatZ.m4a
+├── Maalai-Mangum-Neram.mp3
+├── Machan Peru Madurey.flac
+├── Main Rahoon Ya Na - Armaan Malik (FLAC).flac
+├── Makeup Man (Original Motion Picture) CD 1 TRACK 3 (FLAC)(1).flac
+├── Makeup Man (Original Motion Picture) CD 1 TRACK 3 (FLAC).flac
+├── Malai Mangum Neram - Ranina Reddy .flac
+├── Malaraa-Malaraa-MassTamilan.com.mp3
+├── Malare Mounama _ Tribute To Great S.P.B.Sir _ Rajesh Cherthala _ Flute Cover.mp3
+├── Manil-Indha-MassTamilan.com.mp3
+├── Manisarma,_Naveen_Madhav,_Janani_Madhan_Naan_Nadandhal_Adhiradi.flac
+├── Mani_Sharma,_Hemachandra,_Saindhavi_Thanjavoor_Jilla_Kaari.flac
+├── Mani Sharma, Karthik, Rita - Siragadikkum Nilavu.flac
+├── Manjalayil Mungithorthi - Evergreen Malayalam Song.mp3
+├── Marvel Anthem _ Tamil _ A.R.Rahman.m4a
+├── Mazhavillin kottarathil.wav
+├── Meant To Be.flac
+├── Megan karukkuthu .wav
+├── Meghamalhar (Album) [2011] ACD Rip WAV
+│   ├── 01. Malharile.wav
+│   ├── 02. Ananda Mazhayil (Duet).wav
+│   ├── 03. Mukilai.wav
+│   ├── 04. Neelappeelikalaal.wav
+│   ├── 05. Aananda Mazhayil (Female).wav
+│   ├── 06. Manomayee.wav
+│   ├── 07. Mukilaay (Violin).wav
+│   └── 08. Malhaarile (Flute).wav
+├── M G Sreekumar - Kantu Njan Kannane ACD Rip WAV
+│   ├── 01. Kandu Njaan Kannane.wav
+│   ├── 02. Gomathi Pai Chollunnu.wav
+│   ├── 03. Krishna Ninte Peril.wav
+│   ├── 04. Guruvayoorappane.wav
+│   ├── 05. Athaazhathodu.wav
+│   ├── 06. Raadha Maadhava.wav
+│   ├── 07. Dwaaparakombilu.wav
+│   ├── 08. Kannaa Nee Chaanjurangu.wav
+│   ├── 09. Aaromal Kannane.wav
+│   ├── 10. Mazhamegha Peeli.wav
+│   └── 11. Kannaa Ninne Thedi.wav
+├── Minnalai Pidithu Song - Shajahan Tamil Movie _ Vijay _ Richa Pallod _ Unni Menon _ Mani Sharma.mp3
+├── Minnazhgal-Koothadam.mp3
+├── Minnum Nilathinkalayi...  _ Ezhupunna Tharakan Malayalam Movie Song.mp3
+├── misc
+│   ├── 1 Hour Slow Blues _ Vol. 1 _ Don_s Tunes.mp3
+│   ├── 3 AM Coding Session - Lofi Hip Hop Mix [Study & Coding Beats].m4a
+│   ├── Badass songs that get you pumped.mp3
+│   ├── Best MMA Aggressive Hip Hop Music.mp3
+│   └── Ennai Saaithaalae (reverbed)(lofi)- NC .mp3
+├── Mohan Sithara, K.J. Yesudas, Sujatha - Kuyile Nin.flac
+├── Mohan Sithara, Sujatha, M.G. Sreekumar - Ennullil.flac
+├── Moods Of Kaithapram [1996] ACD Rip WAV
+│   ├── 01. Enthinu Veroru (Mazhayethum Munpe).wav
+│   ├── 02. Aathmaavin Pusthakathaalil (Mazhayethum Munpe).wav
+│   ├── 03. Ezhazhakumaay (Kakkakum Poochakkum Kalyanam).wav
+│   ├── 04. Chandrakaantham Kondu (Patheyam).wav
+│   ├── 05. Jwaalamukhikal (Patheyam).wav
+│   ├── 06. Ganapathi Bhagavaan (Patheyam).wav
+│   ├── 07. Prapancham (Patheyam).wav
+│   ├── 08. Madhuvanam (Thamburaan).wav
+│   ├── 09. Yaamam (Thamburaan).wav
+│   ├── 10. Ambalakkombante (Saadaram).wav
+│   ├── 11. Neelakkarimbinte (Thalamura).wav
+│   ├── 12. Sundariyaam (Thalamura).wav
+│   ├── 13. Raavil Veena (Sindoora Rekha).wav
+│   ├── 14. Pranathosmi (Sindoora Rekha).wav
+│   └── 15. Ente Sindoora Rekhayilengo (Sindoora Rekha).wav
+├── Mottu-Ondru-Malarnthida.mp3
+├── mpvpipe
+├── Mukkala Mukkabala.flac
+├── Naadan Pattukal 840931122231 (FLAC)
+│   ├── Naadan Pattukal CD 1 TRACK 1 (FLAC).flac
+│   ├── Naadan Pattukal CD 1 TRACK 2 (FLAC).flac
+│   ├── Naadan Pattukal CD 1 TRACK 3 (FLAC).flac
+│   ├── Naadan Pattukal CD 1 TRACK 4 (FLAC).flac
+│   └── Naadan Pattukal CD 1 TRACK 5 (FLAC).flac
+├── Naan Pogiren.flac
+├── Nadhiye Nadhiye Video Song _ Rhythm Tamil Movie Songs _Arjun_A. R. Rahman_Pyramid Music.mp3
+├── Nadodi Poonthinkal.wav
+├── Namah Thykudam Bridge flac
+│   ├── 01. Saawariya.flac
+│   ├── 02. Kanne.flac
+│   ├── 03. Saalaikal.flac
+│   ├── 04. Inside My Head.flac
+│   ├── 05. Kaadum Malayum.flac
+│   ├── 06. Nee.flac
+│   ├── 07. Jeele Jeebhar.flac
+│   ├── 08. I Can See You.flac
+│   ├── 09. Kalliyankatt Neeli.flac
+│   └── 10. Thekkini.flac
+├── Naveen, Priya - Kozhi Veda Kozhi.flac
+├── Nee Kaatru Naan Maram.flac
+├── Neela Koovala... _ Kadha Samvidhaanam Kunjacko _ Movie Song.m4a
+├── Neha_S_Nair,_Yakzan_Gary_Periera,_Sangeeth_Neeyum_Njanum_.flac
+├── Nenjakame.mp3
+├── Netru Illadha Matram Song _ Pudhiya Mugam Movie _ Suresh Chandra Menon,Revathi _ AR Rahman _ Sujatha.mp3
+├── New West - Those Eyes (Chapter 1).m4a
+├── Nilamanaltharikalil.mp3
+├── Nishad - Kaanakombil.flac
+├── Nomadic_Voice,_Dhanwin_K_B_Kottu_Paattu_feat_Dhanwin_K_B.flac
+├── Not Afraid by Eminem.lrc
+├── nzkau_rtone016.mp3
+├── nzkau_rtone021.mp3
+├── nzkau_rtone025.mp3
+├── nzkau_rtone026.mp3
+├── nzkau_rtone028.mp3
+├── nzkau_rtone029.mp3
+├── OMG Ponnu (From _Sarkar (Tamil)_) - Sid Sriram.flac
+├── Ondra Renda  8D _ Kaaka Kaaka _ Surya _ Harris Jayaraj _ Thamarai _ Bombay Jayasree _ 8D BeatZ.m4a
+├── Oo Antava Oo Oo Antava.mp3
+├── Oorusanam _ Tribute To S. Janaki Amma _ Flute Cover _ Rajesh Cherthala.mp3
+├── Ormakkai-FLAC 1 missing
+│   ├── 02. Yesudas-Eninkkili.flac
+│   ├── 03. Sujatha-Jeevande Jeevanaam (I).flac
+│   ├── 04. MG Sreekumar-Santhwanamarulum.flac
+│   ├── 05. Chithra-Oarmmaykkyay (II).flac
+│   ├── 06. Jayachandran-Innale Njan Kanda.flac
+│   ├── 07. Yesudas-Tharalamam Mruduswaram.flac
+│   ├── 08. MG Sreekumar-Manassum Manassum.flac
+│   ├── 09. Chithra-Ariyathe Vanna.flac
+│   ├── 10. Jayachandran-Jeevande Jeevanaam (II).flac
+│   ├── 11. Mohanlal, Sujatha-Maanaththe Ambili.flac
+│   └── 12. Yesudas, Chithra-Oarmmaykkyay (III).flac
+├── Oru-Kal.mp3
+├── Oru Naal _ Gulmohar _ Vijay Yesudas _ Swetha Mohan _ Johnson _ O N V Kurup.m4a
+├── Oru_Noorasakal_(KuttyWeb.com).mp3
+├── Ovvoru Pookalume _ Flute Cover _ Rajesh Cherthala.mp3
+├── Paathi Paathi Video Song _Vysakh _Roshan Mathew _Anna Ben_ Ranjin Raj _ Kapil Kapilan _Nithya Mammen.m4a
+├── Paavada _ Paavam Paavada Video Song ft Prithviraj Sukumaran _ Official.mp3
+├── Paiya (2010) 24BIT-96KHZ - DIGITALRip-WAV
+│   └── Paiya [24Bit-96kHz HD] (Sony Music) [2010-DIGITALRip-WAV]
+│       ├── 01 - Thuli Thuli.wav
+│       ├── 02 - Poongatre Poongatre (feat. Benny Dayal).wav
+│       ├── 03 - Adada Mazhaida (feat. Yuvanshankar Raja & Saindhavi).wav
+│       ├── 04 - Suthudhe Suthudhe (feat. Yuvanshankar Raja & Sunitha Sarathy).wav
+│       ├── 05 - En Kadhal Solla (feat. Tanvi Shah).wav
+│       ├── 06 - Yedho Ondru Ennai.wav
+│       └── Covers
+├── Pakkam Vanthu.flac
+├── Palnilavinum - K. J. Yesudas  K. S. Chithra (FLAC).flac
+├── Palom Palom.mp3
+├── Pathinalam Ravinte M (Sharjah To Sharjah).wav
+├── Pathiye (From _Ranam_) - Vijay Yesudas - @tamilflacsongs .flac
+├── Pattamarangal Song _ Audio _ Vantha Rajavathaan Varuven _ STR _ Hiphop Tamizha _ Sundar C _ LYCA.m4a
+├── Pazhaya-Soru.mp3
+├── pc-music
+│   ├── MusicBeeLibrary.bak
+│   ├── MusicBeeLibrary.lyrics
+│   ├── MusicBeeLibrary.mbl
+│   ├── MusicBeeLibrary.pfidx
+│   ├── MusicBeeLibrarySettings.bak
+│   ├── MusicBeeLibrarySettings_corrupted_20211030032336.ini
+│   ├── MusicBeeLibrarySettings.ini
+│   ├── NowPlaying.mbp
+│   ├── Playlists
+│   │   ├── Recently Added.xautopf
+│   │   └── Top 25 Most Played.xautopf
+│   └── Podcasts
+│       ├── Subscriptions.bak
+│       └── Subscriptions.dat
+├── Perunthil Nee Enakku.flac
+├── Perunthil-Nee-MassTamilan.com.mp3
+├── Pessamal_Mounam_Sollum_Varthaigal_Amrita_Jayakumar_Nithin_Raj_FLAC.flac
+├── Pinneyum Pinneyum (Flute Cover) - Rajesh Cherthala (FLAC).flac
+├── Pirai-Thedum.mp3
+├── P. Jayachandran - Punnelin Kathirola (Male Version).flac
+├── Pondatti - SS Thaman - @tamilflacsongs .flac
+├── Ponmagal Vandaal - Aslam.flac
+├── Poomanam.flac
+├── Poomkaattinodum.wav
+├── poove sempoove un vasam varum Song _ Solla Thudikuthu Manasu _ பூவே செம்பூவே.m4a
+├── Poovukkul Official Video _ Full HD _ Jeans _ A.R.Rahman _ Prashanth _ Vairamuthu _ AishwaryaRai.mp3
+├── Pramadhavanam.wav
+├── Pranayakaalam_Original_Motion_Picture_Soundtrack_CD_1_TRAC.flac
+├── Pranayamillathe_Aaya_Naal___Rafeeq_Ahamed___Jaison_J_Nair___Bijibal___Madhu_Paul.mp3
+├── Pranayathin Ormakkai [2004] ACD AIFF
+│   ├── 01. Introduction.aif
+│   ├── 02. Sundaranalla Njan.aif
+│   ├── 03. Pranayathin Ormakkayi.aif
+│   ├── 04. Mazhakkaalamalle.aif
+│   ├── 05. Njaanente Hridayam.aif
+│   ├── 06. Manasse Karayalle (F).aif
+│   ├── 07. Ente Manassu.aif
+│   ├── 08. Orupaadu Kaalam.aif
+│   ├── 09. Manasse Karayalle (M).aif
+│   └── 10. Iniyennu Kaanaum.aif
+├── Prathapachandran — Ariyathe.flac
+├── Pularaan Neram.mp3
+├── Punnellin Kathirola _ 720p _ Made in USA _ Vidyasagar _ ONV Kurupp _ P Jayachandran _ Madhavan.m4a
+├── Pyar Kiya To Nibhana.flac
+├── Raapaadi Flute Cover by Rajesh Cherthala.mp3
+├── Ragasiyamaai_Hariharan_G_Ramanathan_Sadhana_Sargam_FLAC.flac
+├── Raghuram Krishnan - Ghazal Sandhya Veendum.flac
+├── Raghuram Krishnan - Khayalinte Maanathu.flac
+├── Rain songs-Srivalsan J
+│   ├── 01. Anandamritakarshini - Amrithavarshini - Adi.flac
+│   ├── 02. First Shower (Varshagamam) - Megh - Tisra Ekam.flac
+│   ├── 03. Light Drizzle Sawan - Mian Ki Malhar - Adi.flac
+│   ├── 04_Hide_and_Seek_of_Rain_and_Sun_Megharenjini_&_Hamsadhwani_Adi.flac
+│   ├── 05. Thunder and Lightning - Saveri - Adi.flac
+│   └── 06. Anticipation and Longing - Kamboji - Misra Chapu.flac
+├── Raman_Thediya_Seethai_Original_Motion_Picture_Soundtrack_CD_1_TRACK.flac
+├── Ranina Reddy - Malai Mangum Neram (FLAC).flac
+├── Rasool Pookkutty Sounds
+│   ├── 01 - Beetein Na Yeh Pal.flac
+│   ├── 02 - Pooram Song.flac
+│   ├── 03 - Paandi Melam (Percussion Instruments of Kerala).flac
+│   ├── 04 - Panchavadhyam (Percussion Instruments of Kerala).flac
+│   └── 05 - Panchari Mellam (Percussion Instruments of Kerala).flac
+├── Ruleta.flac
+├── Saans.wav
+├── Sahibaa.aif
+├── Sandakkaari (From _Kadaikutty Singam_) - D. Imman.flac
+├── Sandakozhi_Original_Motion_Picture_Soundtrack_CD_1_TRACK_5.flac
+├── Sankar Mahadevan - Ishtam.flac
+├── serenity.mp3
+├── Shadjane Paya - Tansen -  Original Full Song By Yesudas & Ravindra Jain.m4a
+├── Shahabaz Aman - Oru Mezhuthiriyude.flac
+├── Shahjahan - 06 - May Madha.wav
+├── Shakthisree Gopalan - Vaaya Veera.flac
+├── Shankar Mahadevan - Pooparikka Neeyum.flac
+├── Shankhum Venchaamaravum Video Song 4K _ Pattabhishekam _ Berny Ignatius _ KJ Yesudas _ Jayaram.m4a
+├── Sharanya Srinivas - Rooh.mp3
+├── Shiva sthuthi
+│   ├── 1. Namaskarartha Mantra.flac
+│   ├── 2. Chandrashekhar Ashtakam.flac
+│   ├── 3. Shiva Panchakshari Mantra.flac
+│   ├── 4. Shiva Naamavali Ashtakam.flac
+│   ├── 5. Shiva Panchakshara Stotram.flac
+│   ├── 6. Shri Margabandhu Stotram.flac
+│   ├── 7. Shiva Mantra Ghanapaatha.flac
+│   └── 8. Shiva Tandava Stotram.flac
+├── Sky kisses earth
+│   ├── 01. Sky Kisses Earth.flac
+│   ├── 02. Remember This!.flac
+│   ├── 03. Dakini.flac
+│   ├── 04. Night Rain.flac
+│   ├── 05. The Seventh Eclipse.flac
+│   ├── 06. Earth Kisses Sky.flac
+│   └── mpvpipe
+├── Sound of India- HIFI
+│   ├── Baluji Shrivastav - Raag Bhairav.mp3
+│   ├── Baluji Shrivastav - Raag Darbari.mp3
+│   ├── Baluji Shrivastav - Raag Hemant.mp3
+│   ├── Baluji Shrivastav - Raag Shri.mp3
+│   ├── Baluji Shrivastav - Raag Shuddha Malhar.mp3
+│   ├── Baluji Shrivastav - Raag Vasant Gat.mp3
+│   └── Baluji Shrivastav - Shuddha Malhar.mp3
+├── Sreenath Bhasi - Parudeesa.flac
+├── Sreenivas, Sujatha Mohan - Velippenninu Thaalikku.flac
+├── Strotram
+│   ├── 1. Acharyakrutam Shatpadeestotram.flac
+│   ├── 2. Achyutashtakam.flac
+│   ├── 3. Shree Hari Stotram.flac
+│   ├── 4. Shree Venkatesha Mangalashasanam.flac
+│   ├── 5. Shree Vishnu Dhyanam.flac
+│   ├── 6. Shree Lakshmi Dhyanam.flac
+│   ├── 7. Shree Vishnu Pratah - Smaranastotram.flac
+│   ├── 8. Vishnu Shatanama Stotram.flac
+│   └── 9. Vishnu Stotram.flac
+├── Study Music Project
+│   ├── Amost Remember.mp3
+│   ├── Another Dimension.mp3
+│   ├── Aurora Sky.mp3
+│   ├── Autumn Melody.mp3
+│   ├── Ballad in Autumn.mp3
+│   ├── Blue Deja Vu.mp3
+│   ├── Caramel Macchiato (with Alpha & Beta Waves).mp3
+│   ├── Clarity.mp3
+│   ├── Crystal Rose.mp3
+│   ├── Dear Diary.mp3
+│   ├── Dream of Love.mp3
+│   ├── Dream Waltz.mp3
+│   ├── Etoile Filante.mp3
+│   ├── Evening Epiphany.mp3
+│   ├── Ever Eternity.mp3
+│   ├── Falling Petals.mp3
+│   ├── Flight 302.mp3
+│   ├── Flower (Garden Version).mp3
+│   ├── Flower (Piano Version).mp3
+│   ├── Glass Palace.mp3
+│   ├── Harmony Let Go (Harmony Echo Peaceful Remix).mp3
+│   ├── Harmony.mp3
+│   ├── Imaginasia.mp3
+│   ├── I Miss You.mp3
+│   ├── Jazzmine Tea.mp3
+│   ├── Just in a Dream.mp3
+│   ├── Masquerade.mp3
+│   ├── Midnight Coffee.mp3
+│   ├── Mocha Latte.mp3
+│   ├── Moon Among Trees.mp3
+│   ├── Music Box.mp3
+│   ├── Neo Gardens.mp3
+│   ├── Neptune Illusion.mp3
+│   ├── Once Upon a Time.mp3
+│   ├── Peace in Belize.mp3
+│   ├── Piano Ballad.mp3
+│   ├── Rain Has Gone.mp3
+│   ├── Rainy Nights, Rainy Days.mp3
+│   ├── Reminiscence (Coffee Version).mp3
+│   ├── Reminiscence (Tea Version).mp3
+│   ├── Sailing into Abyss.mp3
+│   ├── Save My Dreams.mp3
+│   ├── Sincerely Yours.mp3
+│   ├── Smoothie Samba.mp3
+│   ├── Snowflake Sonata.mp3
+│   ├── Starlight Memories.mp3
+│   ├── Sweet Saturn.mp3
+│   ├── Tesseract.mp3
+│   ├── Time Castle.mp3
+│   ├── Waltz into Love.mp3
+│   ├── Water Lily.mp3
+│   ├── We'll Meet Again.mp3
+│   └── Winter Story.mp3
+├── Sujatha Mohan — Ariyathe.flac
+├── Sujatha Mohan - Thazhunna Sooryane.flac
+├── Sushin Shyam, Nazriya Nazim - Nee (From Varathan) (FLAC).flac
+├── Swapnahaaram Vol 1 (Sound Of Arts) [2003] ACD WAV
+│   ├── 01. Ilakozhiyum (Varshangal Poyathariyathe).wav
+│   ├── 02. Neelmizhippeeliyil (Vachanam).wav
+│   ├── 03. Nettiyil Poovulla (Manivathoorile Aayiram Sivarathrikal).wav
+│   ├── 04. Ormmathan Vaasantha (Daisy).wav
+│   ├── 05. Poomukhavaathilil (Rakkuyilin Ragasadassil).wav
+│   ├── 06. Vaishaakha Sandhye (Nadodikkattu).wav
+│   ├── 07. Araliyum Kadaliyum (Jaathakam).wav
+│   ├── 08. Sallaapam Kavithayaay (Kshanakkathu).wav
+│   ├── 09. Nee Akale (Akalathe Ambili).wav
+│   ├── 10. Swapnangalokkeyum (Kaanaan Kothichu).wav
+│   ├── 11. Arikil Nee Undaayirunnenkil (Neeyethra Dhanya).wav
+│   ├── 12. Poonkaattinodum (Poomukhappadiyil Ninneyum Kaathu).wav
+│   └── 13. Hridayam Kondezhuthunna (Aksharathettu).wav
+├── Swapnakkoodu_Original_Motion_Picture.flac
+├── Talvin Singh & Rakesh Chaurasia - Vira (2001) FLAC
+│   ├── Talvin Singh & Rakesh Chaurasia - Vira (2001) FLAC_01. Meeting.flac
+│   ├── Talvin Singh & Rakesh Chaurasia - Vira (2001) FLAC_02. Friendship.flac
+│   ├── Talvin Singh & Rakesh Chaurasia - Vira (2001) FLAC_03. Heaven.flac
+│   ├── Talvin Singh & Rakesh Chaurasia - Vira (2001) FLAC_04. Vira.flac
+│   ├── Talvin Singh & Rakesh Chaurasia - Vira (2001) FLAC_05. One World.flac
+│   ├── Talvin Singh & Rakesh Chaurasia - Vira (2001) FLAC_covers_back2.jpeg
+│   ├── Talvin Singh & Rakesh Chaurasia - Vira (2001) FLAC_covers_cd.jpeg
+│   ├── Talvin Singh & Rakesh Chaurasia - Vira (2001) FLAC_covers_inside1.jpeg
+│   ├── Talvin Singh & Rakesh Chaurasia - Vira (2001) FLAC_covers_inside2.jpeg
+│   ├── Talvin Singh & Rakesh Chaurasia - Vira (2001) FLAC_covers_inside3.jpeg
+│   ├── Talvin Singh & Rakesh Chaurasia - Vira (2001) FLAC_covers_inside4.jpeg
+│   └── Talvin Singh & Rakesh Chaurasia - Vira (2001) FLAC_covers_inside5.jpeg
+├── Tanir - Da Da Da (Remix by Mikis).flac
+├── Thaai sonna.wav
+├── Thaaliyae-Thevaiyillai.mp3
+├── Thaalolam Poompaithale_ HD 1080p _ Nadodi _ Mohanlal, Mohini _ S.P.Venkitesh Hits.mp3
+├── Thaamarapoovil - Sreekumar.flac
+├── Thalappoli Thakiladi Video Song 4K _ Avittam Thirunal Arogya Sreeman _ S P Venkatesh _ K J Yesudas.m4a
+├── Thalavarakkoru Thilakkam..._ Kilukil Pamparam [1997] _ (Prabheesh).m4a
+├── Thani_Oruvan_Original_Motion_Picture_Soundtrack_CD_1_TRACK.flac
+├── Thankathinkal kiliyay.wav
+├── Tharaka Pennale _ Official Video Song HD _ Latest Malayalam Music 2018 _ Mukesh Anusree.mp3
+├── Theeram Malayalam Movie _ Njanum Neeyum Song _ Shreya Ghoshal, Quincy _ Afzal Yusuff _ Official.m4a
+├── The Green Symphony [2015] ACD Rip WAV
+│   ├── 01. The Birth.wav
+│   ├── 02. Oh! Our Beautiful Planet.wav
+│   ├── 03. Thandav - Destruction.wav
+│   └── 04. Shanthi.wav
+├── The Midnight - Comet.m4a
+├── Then Kiliye.mp3
+├── The Weeknd - Blinding Lights.flac
+├── thoovanthumbikal-rain and romance- theme music.wmv.m4a
+├── Thozhi_From_Hey_Sinamika_2022_Tamil_FLAC_24Bit_48kHz_Govind_Vasantha.flac
+├── Time (2001 Remastered Version) - Pink Floyd (FLAC).flac
+├── TM Krishna_ Solo - Raga Sankarabharanam.m4a
+├── Tumhe Apna Banane Ka.flac
+├── Tu_Mile_Dil_Khile_feat_Ramu_Raj_Anoop_Sankar_Ramu_Raj_FLAC.flac
+├── Udit Narayan and Anuradha Sriram - Ada Ennatha Solvenungo.flac
+├── Udit Narayan - Thaen Thaen.flac
+├── Ugram Viram - Ultimate prayer to overcome FEAR _ Sri Narasimha Bija Mantra _ ABHAYAM.m4a
+├── Umbayee
+│   ├── 01. Sojarajakumari.flac
+│   ├── 02. Aajare.flac
+│   ├── 03. Ayire Insan kee.flac
+│   ├── 04. Lot Ke Aa.flac
+│   ├── 05. Milthe He.flac
+│   ├── 06. Mene Shayadh.flac
+│   ├── 07. Meri Yaadh Me.flac
+│   ├── 08. Saranga Their Yaadh Me.flac
+│   ├── 09. Aavas Deghe.flac
+│   └── 10. Thu Pyar Ka Sagar.flac
+├── Umbayee - Nandi Priyasakhi Nandi [2006] ACD Rip FLAC
+│   ├── 01. Nandi Priyasakhi Nandi.flac
+│   ├── 02. Puthiyoru Raagam Paaduka Thansen.flac
+│   ├── 03. Maavukal Poothu.flac
+│   ├── 04. Sukharaathriyodungukayaayi.flac
+│   ├── 05. Ethra Purathanamenkilum.flac
+│   ├── 06. Nidrayil Verumoru Swapnamaay.flac
+│   ├── 07. Vaathilkkal Mutti.flac
+│   ├── 08. Pookkalirukkaruthe Aruthe.flac
+│   └── 09. Madhurikkum Nunayalla.flac
+├── Umbayee Tribute _ Paduka Saigal Padoo _ Full Songs _ O.N.V.Kurup _ Malayalam Ghazals.mp3
+├── Unnaale Unnaale -HJ fans Kerala.wav
+├── Urvasi Urvasi.flac
+├── Uyire-MassTamilan.fm.mp3
+├── Vaanam.aif
+├── Vaan Engum Nee Minna (From Endrendrum Punnagai).flac
+├── Vaa-Vasuki-MassTamilan.io.mp3
+├── Valayapatti - Naresh Iyer.flac
+├── Valkkannezhuthiya.wav
+├── Varshaa (Rain Melodies) [2007] ACD Rip WAV
+│   ├── 01. Springtime Valley.wav
+│   ├── 02. Deja Vu.wav
+│   ├── 03. Bonding Life.wav
+│   ├── 04. Romancing The Rain.wav
+│   ├── 05. The Wait.wav
+│   └── 06. Ecstacy.wav
+├── Venghai_2011_24_Bit_HD_Sony_Music_TAMIL_SONGSFLAC_DIGITAL_RIP
+│   └── Venghai [24-Bit HD] (Sony Music) [2011-DIGITALRip-WAV]
+│       ├── 01 - Dhenam Dhenam.wav
+│       ├── 02 - Kaalangathale.wav
+│       ├── 03 - Yenna Solla Pore.wav
+│       ├── 04 - Orey Oru.wav
+│       └── 05 - Pudikale Pudikudhu.wav
+├── Vilichathenthinu - Gramophone Malayalam Movie song _ Dileep _ Meera Jasmine.mp3
+├── Wajah Tum Ho.flac
+├── What a Karavaad.flac
+├── Yaan - Nee Vandhu Ponadhu video _ Harris Jayaraj _ Jiiva.mp3
+├── Yedhedho Aanene (From _Mr. Chandramouli_) - Sam C.S..flac
+├── Yesudas 96  Top Songs from Films
+│   ├── 01. Nirathingalo (Sathyabhamakkoru Premalekhanam).wav
+│   ├── 02. Mandarangal (Kavadam).wav
+│   ├── 03. Pranathosmi (Sindoora Rekha).wav
+│   ├── 04. Aaro Thinkathidambo (Malayaalamaasam Chingam Onninu).wav
+│   ├── 05. Smrithikal (Sakshyam).wav
+│   ├── 06. Janimrithikal (Puthukkottayile Puthumanavalan).wav
+│   ├── 07. Kocharimullayil (Thiruvithamkoor Thirumanassu).wav
+│   ├── 08. Ezhazhakumay (Kakkakum Poochakkum Kalyanam).wav
+│   ├── 09. Kannikinavinte (Kokkarakko).wav
+│   ├── 10. Ponnambili (No. 1 Snehatheeram Bangalore North).wav
+│   ├── 11. Pakalinte Nadhanu (Pallivaathukkal Thommichan).wav
+│   ├── 12. Chingarakombathe (Mazhavilkoodaram).wav
+│   ├── 13. Kaathil Thenmazhayaay (Thumboli Kadappuram).wav
+│   ├── 14. Raagadra Sandyayil (Chaithanyam).wav
+│   ├── 15. Thalappoli Thakiladi (Avittam Thirunaal Aarogya Sriman).wav
+│   └── 16. Kalindiyil Thedi (Sindoora Rekha).wav
+├── You Can't Stop The Girl.flac
+├── Yuvanshankar Raja, Roop Kumar Rathod - Oru Devathai.flac
+├── Zakir hussain and pandit kunnakudi vaidhyanathan
+│   ├── 01. Quest for Music.flac
+│   ├── 02. Valliya Naayaganae.flac
+│   ├── 03. Evolution.flac
+│   ├── 04. Saamajavaragamana.flac
+│   └── 05. Abharaama Bhakti.flac
+├── Да да да (Jarico Remix) - Tanir  Tyomcha (FLAC).flac
+├── അനശ്വരകലാക്കാരൻ  ആലപിച്ച മനോഹരമായ നാടൻപാട്ട് _ Jithesh Kakkidippuram _ Enthinadi Poomkuyile Song.mp3
+├── നീല വെളിച്ചം നിലാമഴ പെയ്യുന്ന _ Neela Velicham _ _ Paduka Saigal Padoo _ Umbayee _ ONV Kurup.mp3
+└── പാടുക സൈഗാള്‍ പാടൂ _ Paduka Saigal Padoo _ ONV Kurup _ Umbayee _ Vijayan East Coast _ Ghazals.mp3
+
+71 directories, 1881 files

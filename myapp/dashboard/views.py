@@ -4,7 +4,6 @@ try:
     from dashboard import getfile as getfile_module
     from dashboard import printfile as printfile_module
 
-
 except Exception as e:
     print("local imports unsuccessful" +str(e))
 
@@ -31,13 +30,11 @@ class Notewiki:
     redirection_path="notes"
 
     def __init__(self,name,data,tags):
-        # self.path = Notewiki.path
         self.name = name
         self.data = data
         self.tag = tags
 
     def givedata(self):
-        # self.path="mynotes"
         self.name=getfile_module.getfile(self.path)
         self.data=printfile_module.printfile(self.name,False)
         return(self.data,self.redirection_path)
