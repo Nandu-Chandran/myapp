@@ -1,11 +1,11 @@
 body {
-    background: #FF0000;
+    background: #fafafa;
     color: #333333;
     margin-top: 5rem;
   }
   
   h1, h2, h3, h4, h5, h6 {
-    color: #FF0000;
+    color: #444444;
   }
   
   ul {
@@ -29,7 +29,7 @@ body {
   }
   
   .content-section {
-    background: #FF0000;
+    background: #ffffff;
     padding: 10px 20px;
     border: 1px solid #dddddd;
     border-radius: 3px;
@@ -84,20 +84,20 @@ body {
   }
 
   .fixedButton{
-    position: right;
+    position: fixed;
     bottom: 0px;
     right: 0px; 
     padding: 20px;
-  }
-  .roundedFixedBtn{
-  height: 60px;
-  line-height: 80px;  
-  width: 60px;  
+}
+.roundedFixedBtn{
+  height: 50px;
+  line-height: 55px;  
+  width: 50px;  
   font-size: 2em;
   font-weight: bold;
   border-radius: 50%;
-  background-color: #4CAF50;
-  color: red;
+  background-color: #5f788a;
+  color: white;
   text-align: center;
   cursor: pointer;
- }
+}
