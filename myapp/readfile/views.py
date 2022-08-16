@@ -12,7 +12,7 @@ try:
 
 except Exception as e:
     print("local imports unsuccessful" +str(e))
-
+base_dir="notedb"
 
 def index(request):
     # print(para)
@@ -27,7 +27,7 @@ def index(request):
     return render(request,'readfile/home.html',args)
 
 def viewfile(request,msg):
-    
+    msg=os.path.join(base_dir,msg)
     print("\nPassed as request\n",msg)
     args={}
     

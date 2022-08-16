@@ -1,5 +1,5 @@
 from django.shortcuts import render
-
+import os
 try:
     from dashboard import getfile as getfile_module
     from dashboard import printfile as printfile_module
@@ -9,11 +9,9 @@ except Exception as e:
 
 #Declare new cards in list
 card_names=['notewiki','quotes','archieve']
-
+base_dir='notedb'
 #Pattern of cards
 class Card:
-    # redirection_path="notes"
-    base_dir='loc'
 
     def __init__(self,name,data,location):
         self.name = name
@@ -22,16 +20,17 @@ class Card:
         # self.tag= tag
     
     def givedata(self):
+        self.path=os.path.join(base_dir,self.path)
+        print("file path passed as request from give data",self.path)
         self.name=getfile_module.getfile(self.path)
-        print("\n*****************path",self.path)
+        print("\n*****************path",os.path.join(base_dir,self.path))
         self.data=printfile_module.printfile(self.name,False)
         print("\n*****************redirection_path>>>>",self.redirection_path)
         return(self.data,self.redirection_path)
 
     def printCard(self):
         return('{} {} {}'.format(self.name,self.content,self.tag))
-    
-    # def notewikiCard(self):
+
 #Class of different cards
 class Notewiki(Card):
     path="notes"
