@@ -12,71 +12,50 @@ card_names=['notewiki','quotes','archieve']
 
 #Pattern of cards
 class Card:
+    # redirection_path="notes"
+    base_dir='loc'
 
-    def __init__(self,name,content,redirection_path):
+    def __init__(self,name,data,location):
         self.name = name
-        self.content = content
-        self.redirection_path= redirection_path
+        self.data= data
+        self.location= location
         # self.tag= tag
+    
+    def givedata(self):
+        self.name=getfile_module.getfile(self.path)
+        print("\n*****************path",self.path)
+        self.data=printfile_module.printfile(self.name,False)
+        print("\n*****************redirection_path>>>>",self.redirection_path)
+        return(self.data,self.redirection_path)
 
     def printCard(self):
         return('{} {} {}'.format(self.name,self.content,self.tag))
     
     # def notewikiCard(self):
 #Class of different cards
-class Notewiki:
-    
+class Notewiki(Card):
     path="notes"
     redirection_path="notes"
 
-    def __init__(self,name,data,tags):
-        self.name = name
-        self.data = data
-        self.tag = tags
-
-    def givedata(self):
-        self.name=getfile_module.getfile(self.path)
-        self.data=printfile_module.printfile(self.name,False)
-        return(self.data,self.redirection_path)
-
-class Quote:
-    
+class Quote(Card):
     path="quotes"
     redirection_path="quotes"
 
-    def __init__(self,name,data,tags):
-        self.name = name
-        self.data = data
-        self.tag = tags
-
-    def givedata(self):
-        self.name=getfile_module.getfile(self.path)
-        self.data=printfile_module.printfile(self.name,False)
-        return(self.data,self.name,self.redirection_path)
-
-class Archieve:
-    
+class Archieve(Card):
     path="archieve"
     redirection_path="archieve$"
 
-    def __init__(self,name,data,tags):
-        self.name = name
-        self.data = data
-        self.tag = tags
-
-    def givedata(self):
-        self.name=getfile_module.getfile(self.path)
-        self.data=printfile_module.printfile(self.name,False)
-        return(self.data,self.name,self.redirection_path)
-
 NotewikiCard= Notewiki("null","null","null")
 NotewikiCard.givedata()
+# print(help(Notewiki))
 
 QuoteCard= Quote("null","null","null")
 QuoteCard.givedata()
 
 ArchieveCard=Archieve("null","null","null")
 ArchieveCard.givedata()
+
+
 
 card_list=[NotewikiCard,QuoteCard,ArchieveCard]
 
@@ -85,6 +64,7 @@ def create_cards(card_names):
     fullcard=[]
     for card in range(len(card_list)):
         cardobj= Card(card_list[card].name,card_list[card].data, card_list[card].redirection_path)
+        print("\n",cardobj.__dict__)
         fullcard.append(cardobj.__dict__)
     return fullcard
 
@@ -97,5 +77,5 @@ def dashboard(request):
     context={
         'cards':cards
     }
-    # print(context)
+    print(context)
     return render(request, 'dashboard/dashboard.html',context) 
