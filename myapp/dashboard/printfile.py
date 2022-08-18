@@ -2,7 +2,7 @@ import os,random
 import argparse
 
 def printfile(filename,printfull):
- print("\n>>>>>>filename from printfile function\n",filename)
+#  print("\n>>>>>>filename from printfile function\n",filename)
  with open(filename, "r") as file:
     try:
       if printfull == True:
